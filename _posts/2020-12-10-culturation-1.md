@@ -1,5 +1,5 @@
 ---
-title: "Culturation #1 - *Roger et ses humains*, Par **Cyprien Iov** et **Paka**"
+title: "Culturation #1 - *Roger et ses humains*, de **Cyprien Iov** et **Paka**"
 categories:
   - Culturation
 tags:
@@ -7,10 +7,13 @@ tags:
   - Humour
 gallery:
   - image_path: https://www.bedetheque.com/media/Couvertures/Couv_258379.jpg
+    url: https://www.bedetheque.com/media/Couvertures/Couv_258379.jpg
     title: "Couverture du Tome 1"
   - image_path: https://www.bedetheque.com/media/Couvertures/Couv_344626.jpg
+    url: https://www.bedetheque.com/media/Couvertures/Couv_344626.jpg
     title: "Couverture du Tome 2"
   - image_path: https://www.bedetheque.com/media/Couvertures/Couv_405222.jpg
+    url: https://www.bedetheque.com/media/Couvertures/Couv_405222.jpg
     title: "Couverture du Tome 3"
 ---
 
@@ -31,4 +34,9 @@ Des gags court, une histoire simple, pas de quoi révolutionner le genre. Ce pre
 
 # TOME 2
 
-Le deuxième tome est apparu en 2018. Le style graphique s'affine, les couleurs changent, l'espace entre les "strip" se réduit, permettant une transition plus douce avec les passages dessinés sur plusieurs pages. Ce deuxième tome est clairement plus abouti visuellement. On reste sur un style simple, mais plus précis.\\
+Le deuxième tome est apparu en 2018. Le style graphique s'affine, les couleurs changent, l'espace entre les "strip" se réduit, permettant une transition plus douce avec les passages dessinés sur plusieurs pages. Ce deuxième tome est clairement plus abouti visuellement. On reste sur un style simple, mais plus précis.
+
+Scénaristiquement, bien que l'on reste sur une succession de gags en "strip", deux axes se dégagent : le rapport aux objets numériques ([Siri](https://fr.wikipedia.org/wiki/Siri_(logiciel)), [Alexa](https://fr.wikipedia.org/wiki/Amazon_Alexa), etc) et la reprise en main des héros de leur quotidien.\\
+Le monde voit en effet arriver une vague de robots aidants dans les tâches quotidiennent. Beaucoup moins intelligent que Roger, ces "OK Boobeul" sont, comme le jeu de mot l'indique, plus des "OK GOOGLE" sur pattes qu'autre choses. De par cette "stupidité" les auteurs vont ainsi pouvoir jouer et proposer des situations plutôt rigolotes. Un questionnement léger sur notre rapport à ce dernier peut être décelé, même s'il n'est pas approfondi plus que cela, laissant le lecteur libre de découvrir ou non par lui même le sujet. Une proposition encore une fois donc plus comique que vraiment questionnante.\\
+Un autre axe abordé dans ce tome est celui du changement du quotidien. Sans trop en dire, Hugo va chercher du boulot, Florence remettre en question plusieurs piliers et Roger se questionner sur sa raison d'être. Un développement assez intéressant des personnages, bien que nécessaire, pour dégager plus une personnalité des personnages que des archétypes, et ainsi éviter la caricature outrancière sur plusieurs tomes.
+
