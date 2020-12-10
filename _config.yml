@@ -17,8 +17,8 @@ title: Le blog de Nandicre
 email: nandicre@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Là où je pose mes pensées
-#twitter_username: username
-#github_username: username
+twitter_username:
+github_username:
 minimal_mistakes_skin: default
 search: true
 
@@ -56,34 +56,34 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Nandicre"
+  avatar : "https://avatars0.githubusercontent.com/u/22450792?s=460&u=a4075146617f738813bf9dd923445d14321c7ddd&v=4"
+  bio    : "I love Cookies"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Nandicre2"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/Nandicre2"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
