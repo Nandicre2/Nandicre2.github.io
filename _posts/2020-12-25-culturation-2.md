@@ -32,14 +32,29 @@ Après une préface beaucoup trop longue, parlons enfin du film.
 
 Sortie en 2019 sur [Netflix](https://fr.wikipedia.org/wiki/Netflix), *Klaus* est un [film d'animation](https://fr.wikipedia.org/wiki/Animation_(audiovisuel)) espagnol, réalisé par **Sergio Pablos**, ancien [animateur](https://fr.wikipedia.org/wiki/Animateur_(artiste)) chez [Disney](https://fr.wikipedia.org/wiki/Walt_Disney_Pictures).
 
-Et le bagage du bonhomme se ressent instantanément: que le dessin est beau! Car oui, nous sommes sur de l'animation [2D](https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9), dessinée à la main. Une impression de relief, de profondeur ahurissante; des lumières et des couleurs somptueuses; des personnages aux traits ni trop parfait, ni trop brouillons. Bref, une merveille photographique. Et pour ceux qui doutent du dessin 2D, [en voici la preuve (en anglais)](https://www.youtube.com/watch?v=BlU49dJhfcw).  
-Bien qu'il soit sur Netflix et que la tentation puiss être forte, ne regardez pas ce film sur votre téléphone, je vous en supplie. D'ailleurs, [ne regardez plus de film sur votre téléphone](https://www.youtube.com/watch?v=mWnFWFSmkDo)!
+## L'image
 
-## Histoire
+Et le bagage du bonhomme se ressent instantanément: que le dessin est beau! Car oui, nous sommes sur de l'animation [2D](https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9), dessinée à la main. Une impression de relief, de profondeur ahurissante; des lumières et des couleurs somptueuses; des personnages aux traits ni trop parfait, ni trop brouillons. Bref, une merveille photographique. C'est simple, ma dernière claque visuelle s'en rapprochant était pour [*Spider-Man: New Generation*](https://fr.wikipedia.org/wiki/Spider-Man:_New_Generation). Et bien que ce dernier ai eu l'[Oscar](https://fr.wikipedia.org/wiki/Oscar_du_meilleur_film_d%27animation) en 2019, *Klaus* ne l'a malheureusement pas reçu en 2020. Non pas que je n'aime pas celui l'ayant eu ([Toy Story 4](https://fr.wikipedia.org/wiki/Toy_Story_4)), mais si de temps à autre l'académie pouvait récompenser autre chose que du Disney/[Pixar](https://fr.wikipedia.org/wiki/Pixar_Animation_Studios), le monde serait plus beau.  
+Bien qu'il soit sur Netflix et que la tentation puisse être forte, ne regardez pas ce film sur votre téléphone, je vous en supplie. D'ailleurs, [ne regardez plus de film sur votre téléphone](https://www.youtube.com/watch?v=mWnFWFSmkDo)! Et pour ceux qui sont persuadés que je mens et que *Klaus* est en 3D, en voici la preuve (en anglais) :
 
+{% include video id="BlU49dJhfcw" provider="youtube" %}
 
+## L'histoire
 
-## Musique
-## Doublage
+Loin d'être seulement un bijou visuel, *Klaus* sait aussi être tout à fait prenant.  
+Nous suivrons donc Jesper, jeune fils-de, qui se voit contraint par son propre père de devenir postier dans un village reculé au nord, Smeerensburg, avec pour objectif l'envoie de 6000 lettres en un an. Arrivé sur place, notre héros se rend très vite compte que les habitants sont divisés en deux clans, les Ellingboe et les Krum, et que ces derniers sont bien plus intéressés par l'envie de bruler son prochain que de lui écrire un tendre poème. Las de n'avoir aucune missive à transporter, il va faire la connaissance de Klaus, un menuisier vivant reculé dans la montagne, et possédant moult jouets. Bien décidé à remplir son quota, Jesper va s'allier à ce dernier pour délivrer des colis aux enfants du village.
+
+Bien que sentant le déjà-vu (le riche pédant débarquant dans un village, qui va réussir à changer le village mais aussi lui-même), la narration arrive à nous prendre par la main. On prend même un malin plaisir à deviner l'évolution de l'histoire et, si l'on est par surpris d'avoir raison, les personnages étant extrèmement attachant font qu'un sentiment de bonheur nous envahie.
+
+## La musique
+
+La bande-son de *Klaus* ne m'a pas marqué. Elle n'est pas mauvaise, juste assez anecdotique. Bien que le film possède des morceaux ["fort"](https://www.youtube.com/watch?v=9LEw-dsEdwk), il ne m'en reste pourtant rien après. En fait, je pense qu'elle sait se faire discrète et, se collant assez bien au film, on ne fait absolument attention à son existence. Ce qui est, en soi, un bon point, non ?
+
+## Le Doublage
+
+Petit point sur le doublage français, le film étant en Anglais à la base. Les voix originales sont vraiment adaptées, les voix françaises aussi. Sauf une : [**François Berléand**](https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Berl%C3%A9and) pour la voix de Klaus. Alors j'adore **Berléand**, mais je trouve que ici, en Klaus, sa voix semble... inapropriée. Qu'on s'entende bien, elle n'est pas affreuse, mais chaque fois que son personnage recommence à parler, je sors un petit peu du film. Ne fuyez pas la VF pour autant, ce n'est qu'un avis personnel, le reste du casting est très bien trouvé !
 
 # Conclusion
+
+Ba et Noël dans tout cela ? Je pense que l'on tient ici la raison pour laquelle j'aime ce film: Noël n'existe pas vraiment. Ou plutôt, c'est une fête quelconque pendant une bonne partie du film.  
+Réinventant le mythe du barbu en rouge et blanc, ne faisant du 25 décembre qu'une date comme une autre, se concentrant bien plus sur le pouvoir de l'altruisme et des relations sociales que sur un sapin rempli de jouets, *Klaus* est pour moi l'un de ces films de Noël rendant ses racines à cette fête, loin d'une commercialisation à outrance de l'occident.
