@@ -1,5 +1,5 @@
 ---
-title: "Culturation #2 - *Klaus*, de **Sergio Pablos**
+title: "Culturation #2 - *Klaus*, de **Sergio Pablos**"
 categories:
   - Culturation
 tags:
@@ -7,8 +7,6 @@ tags:
   - Animation
   - Noël
 ---
-
-# Intro
 
 Je n'aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme [le Grinch](https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl) ou [Scrooge](https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl)), mais laissez moi m'expliquer.
 
@@ -24,12 +22,24 @@ Culturellement, Noël devient l'obligation de fin d'année: il faut sortir de no
 Concernant les films de cette période, il y a pour moi deux axes principaux :
  * Ceux parlant du Père Noël en tant que tel, c'est à dire ceux où ce cher Santa va vivre quelconque péripétie. Un accident de traineau, un rène bourré, etc.
  * Ceux qui pourraient très bien exister sans Noël. Prenez exactement le même film, enlevez Noël et mettez un autre évènement, et le film fonctionne de la même manière.
-Chaque année, plusieurs films suivant l'un de ces deux axes apparaissent, et souvent ne réinventent pas le genre. Cela ne fait pas d'eux des mauvais films, mais j'ai de plus en plus de mal à être bouleversé par la 2500ème adaptation du conte de Dickens.
+Chaque année, plusieurs films suivant l'un de ces deux axes apparaissent, et souvent ne réinventent pas le genre. Cela ne fait pas d'eux des mauvais films, mais j'ai de plus en plus de mal à être bouleversé par la 2500ème adaptation du [conte de Dickens](https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl).
+
+Pourtant, il arrive parfois qu'un film tournant autour du thème du sapin lumineux arrive à me surprendre. Et c'est le cas de [*Klaus*](https://fr.wikipedia.org/wiki/Klaus_(film)), de [**Sergio Pablos**](https://fr.wikipedia.org/wiki/Sergio_Pablos).
 
 # Le film
 
-## Dessin
+Après une préface beaucoup trop longue, parlons enfin du film.
+
+Sortie en 2019 sur [Netflix](https://fr.wikipedia.org/wiki/Netflix), *Klaus* est un [film d'animation](https://fr.wikipedia.org/wiki/Animation_(audiovisuel)) espagnol, réalisé par **Sergio Pablos**, ancien [animateur](https://fr.wikipedia.org/wiki/Animateur_(artiste)) chez [Disney](https://fr.wikipedia.org/wiki/Walt_Disney_Pictures).
+
+Et le bagage du bonhomme se ressent instantanément: que le dessin est beau! Car oui, nous sommes sur de l'animation [2D](https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9), dessinée à la main. Une impression de relief, de profondeur ahurissante; des lumières et des couleurs somptueuses; des personnages aux traits ni trop parfait, ni trop brouillons. Bref, une merveille photographique. Et pour ceux qui doutent du dessin 2D, [en voici la preuve (en anglais)](https://www.youtube.com/watch?v=BlU49dJhfcw).  
+Bien qu'il soit sur Netflix et que la tentation puiss être forte, ne regardez pas ce film sur votre téléphone, je vous en supplie. D'ailleurs, [ne regardez plus de film sur votre téléphone](https://www.youtube.com/watch?v=mWnFWFSmkDo)!
+
 ## Histoire
+
+
+
 ## Musique
+## Doublage
 
 # Conclusion
