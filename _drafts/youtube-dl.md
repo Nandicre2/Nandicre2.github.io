@@ -1,7 +1,7 @@
 ---
-title: "Divagations #2 - Sauvegarder Youtube"
+title: "Sauvegarder Youtube"
 categories:
-  - Divigations
+  - Divagations
 tags:
   - Youtube
 ---
