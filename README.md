@@ -1,2 +1,1 @@
-# Nandicre2.github.io
-My blog
+# My blog (https://nandicre2.github.io/)

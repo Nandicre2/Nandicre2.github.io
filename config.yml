@@ -1,0 +1,9 @@
+baseURL: https://nandicre2.github.io/
+languageCode: fr-fr
+title: Le blog de Nandicre
+theme: "WonderMod"
+markup:
+   highlight:
+        style: dracula
+        noClasses: false
+        guessSyntax: true
