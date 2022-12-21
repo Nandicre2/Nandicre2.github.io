@@ -9,18 +9,19 @@
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
     <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>*Pourquoi NETFLIX, c&#39;est MOCHE ?* : Précisions sur la vidéo</title>
+      <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
       <link>https://nandicre2.github.io/2021-02-13-divagation-1/</link>
       <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://nandicre2.github.io/2021-02-13-divagation-1/</guid>
       <description>Avant toute chose, allez voir la vidéo d&amp;rsquo;INTHEPANDA, puisque cet article est un complément de cette dernière.
-{% include video id=&amp;ldquo;WMMw8GORDX4&amp;rdquo; provider=&amp;ldquo;youtube&amp;rdquo; %}
 WARNING : CECI N&amp;rsquo;EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J&amp;rsquo;ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.
 La vidéo est regardée ? OK, on commence.
-Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande.</description>
+Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</description>
       <content:encoded><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
-<p>{% include video id=&ldquo;WMMw8GORDX4&rdquo; provider=&ldquo;youtube&rdquo; %}</p>
+<div class="youtube-embed-div">
+    <iframe src="https://www.youtube-nocookie.com/embed/WMMw8GORDX4" class="youtube-embed-frame" allowfullscreen title="YouTube Video"></iframe>
+</div>  
 <p><strong>WARNING : CECI N&rsquo;EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J&rsquo;ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.</strong></p>
 <p>La vidéo est regardée ? OK, on commence.</p>
 <h1 id="netflix-drm-et-les-navigateurs">Netflix, DRM et les navigateurs</h1>

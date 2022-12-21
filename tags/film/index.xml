@@ -9,7 +9,7 @@
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
     <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/tags/film/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Culturation #2 - *Klaus*, de **Sergio Pablos**</title>
+      <title>Culturation #2 - KLAUS, de Sergio Pablos</title>
       <link>https://nandicre2.github.io/2020-12-25-culturation-2/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
       
@@ -40,7 +40,9 @@ Chaque année, plusieurs films suivant l&rsquo;un de ces deux axes apparaissent,
 <h2 id="limage">L&rsquo;image</h2>
 <p>Et le bagage du bonhomme se ressent instantanément: que le dessin est beau! Car oui, nous sommes sur de l&rsquo;animation <a href="https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9">2D</a>, dessinée à la main. Une impression de relief, de profondeur ahurissante; des lumières et des couleurs somptueuses; des personnages aux traits ni trop parfait, ni trop brouillons. Bref, une merveille photographique. C&rsquo;est simple, ma dernière claque visuelle s&rsquo;en rapprochant était pour <a href="https://fr.wikipedia.org/wiki/Spider-Man:_New_Generation"><em>Spider-Man: New Generation</em></a>. Et bien que ce dernier a eu l&rsquo;<a href="https://fr.wikipedia.org/wiki/Oscar_du_meilleur_film_d%27animation">Oscar</a> en 2019, <em>Klaus</em> ne l&rsquo;a malheureusement pas reçu en 2020. Non pas que je n&rsquo;aime pas celui l&rsquo;ayant eu (<a href="https://fr.wikipedia.org/wiki/Toy_Story_4">Toy Story 4</a>), mais si de temps à autre l&rsquo;académie pouvait récompenser autre chose que du Disney/<a href="https://fr.wikipedia.org/wiki/Pixar_Animation_Studios">Pixar</a>, le monde serait plus beau.<br>
 Bien qu&rsquo;il soit sur Netflix et que la tentation puisse être forte, ne regardez pas ce film sur votre téléphone, je vous en supplie. D&rsquo;ailleurs, <a href="https://www.youtube.com/watch?v=mWnFWFSmkDo">ne regardez plus de film sur votre téléphone</a>! Et pour ceux qui sont persuadés que je mens et que <em>Klaus</em> est en 3D, en voici la preuve (en anglais) :</p>
-<p>{% include video id=&ldquo;BlU49dJhfcw&rdquo; provider=&ldquo;youtube&rdquo; %}</p>
+<div class="youtube-embed-div">
+    <iframe src="https://www.youtube-nocookie.com/embed/BlU49dJhfcw" class="youtube-embed-frame" allowfullscreen title="YouTube Video"></iframe>
+</div>  
 <h2 id="lhistoire">L&rsquo;histoire</h2>
 <p>Loin d&rsquo;être seulement un bijou visuel, <em>Klaus</em> sait aussi être tout à fait prenant.<br>
 Nous suivrons donc Jesper, jeune fils-de, qui se voit contraint par son propre père de devenir postier dans un village reculé au nord, Smeerensburg, avec pour objectif l&rsquo;envoie de 6000 lettres en un an. Arrivé sur place, notre héros se rend très vite compte que les habitants sont divisés en deux clans, les Ellingboe et les Krum, et que ces derniers sont bien plus intéressés par l&rsquo;envie de brûler son prochain que de lui écrire un tendre poème. Las de n&rsquo;avoir aucune missive à transporter, il va faire la connaissance de Klaus, un menuisier vivant reculé dans la montagne, et possédant moult jouets. Bien décidé à remplir son quota, Jesper va s&rsquo;allier à ce dernier pour délivrer des colis aux enfants du village.</p>
