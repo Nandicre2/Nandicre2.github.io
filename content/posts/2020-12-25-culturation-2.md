@@ -1,13 +1,8 @@
 ---
-title: "Culturation #2 - *Klaus*, de **Sergio Pablos**"
+title: "Culturation #2 - KLAUS, de Sergio Pablos"
 date: 2020-12-25
-
-categories:
-  - Culturation
-tags:
-  - Film
-  - Animation
-  - Noël
+draft: false
+tags: [Film]
 ---
 
 Je n'aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme [le Grinch](https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl) ou [Scrooge](https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl)), mais laissez-moi m'expliquer.
@@ -41,7 +36,7 @@ Sortie en 2019 sur [Netflix](https://fr.wikipedia.org/wiki/Netflix), *Klaus* est
 Et le bagage du bonhomme se ressent instantanément: que le dessin est beau! Car oui, nous sommes sur de l'animation [2D](https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9), dessinée à la main. Une impression de relief, de profondeur ahurissante; des lumières et des couleurs somptueuses; des personnages aux traits ni trop parfait, ni trop brouillons. Bref, une merveille photographique. C'est simple, ma dernière claque visuelle s'en rapprochant était pour [*Spider-Man: New Generation*](https://fr.wikipedia.org/wiki/Spider-Man:_New_Generation). Et bien que ce dernier a eu l'[Oscar](https://fr.wikipedia.org/wiki/Oscar_du_meilleur_film_d%27animation) en 2019, *Klaus* ne l'a malheureusement pas reçu en 2020. Non pas que je n'aime pas celui l'ayant eu ([Toy Story 4](https://fr.wikipedia.org/wiki/Toy_Story_4)), mais si de temps à autre l'académie pouvait récompenser autre chose que du Disney/[Pixar](https://fr.wikipedia.org/wiki/Pixar_Animation_Studios), le monde serait plus beau.  
 Bien qu'il soit sur Netflix et que la tentation puisse être forte, ne regardez pas ce film sur votre téléphone, je vous en supplie. D'ailleurs, [ne regardez plus de film sur votre téléphone](https://www.youtube.com/watch?v=mWnFWFSmkDo)! Et pour ceux qui sont persuadés que je mens et que *Klaus* est en 3D, en voici la preuve (en anglais) :
 
-{% include video id="BlU49dJhfcw" provider="youtube" %}
+{{<youtube BlU49dJhfcw>}}
 
 ## L'histoire
 

@@ -1,17 +1,13 @@
 ---
-title: "*Pourquoi NETFLIX, c'est MOCHE ?* : Précisions sur la vidéo"
+title: "Pourquoi NETFLIX, c'est MOCHE ? : Précisions sur la vidéo"
 date: 2021-02-13
-
-categories:
-  - Divagations
-tags:
-  - Netflix
-  - DRM
+draft: false
+tags: [Netflix, DRM]
 ---
 
 Avant toute chose, allez voir la vidéo d'[**INTHEPANDA**](https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg), puisque cet article est un complément de cette dernière.
 
-{% include video id="WMMw8GORDX4" provider="youtube" %}
+{{<youtube WMMw8GORDX4>}}
 
 **WARNING : CECI N'EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J'ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.**
 
