@@ -1,7 +1,7 @@
 ---
 title: "ASNIFF 2023 - Le cinéma de genre à la nantaise"
-date: 2023-10-
-draft: true
+date: 2023-10-20
+draft: false
 tags: [Cinéma]
 ---
 # Introduction
@@ -444,4 +444,12 @@ Possédant son lot de plan bluffant, assumant totalement de filmer le désastre 
 
 # Et la suite ?
 
-TODO
+La saison 2023-2024 de l'absurde va continuer ([le programme](https://absurdeseance.fr/#programme)).
+Puis ce sera les vacances d'été 2024.
+Et après ?
+Aucune idée.
+
+Le président à en effet annoncé qu'il allait arrêter et partir de Nantes, pour cause de retraite.
+Je me demande donc si le Katorza va continuer, avec peut-être une nouvelle formule.
+Ce serait bien, un cinéma différent est important à conserver.
+En tout cas, l'ASNIFF 2024 aura lieu et, pour sûr, j'y serai.
