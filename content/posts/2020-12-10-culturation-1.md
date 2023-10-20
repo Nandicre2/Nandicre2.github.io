@@ -1,5 +1,5 @@
 ---
-title: "Culturation #1 - Roger et ses humains, de Cyprien Iov et Paka"
+title: "Roger et ses humains, de Cyprien Iov et Paka"
 date: 2020-12-10
 draft: false
 tags: [BD]
