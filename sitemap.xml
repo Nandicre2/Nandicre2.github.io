@@ -2,17 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nandicre2.github.io/tags/cin%C3%A9ma/</loc>
-    <lastmod>2023-12-29T17:08:34+01:00</lastmod>
-  </url><url>
     <loc>https://nandicre2.github.io/</loc>
-    <lastmod>2024-01-03T17:13:34+01:00</lastmod>
+    <lastmod>2024-01-03T17:14:03+01:00</lastmod>
+  </url><url>
+    <loc>https://nandicre2.github.io/tags/linux/</loc>
+    <lastmod>2024-01-03T17:14:03+01:00</lastmod>
+  </url><url>
+    <loc>https://nandicre2.github.io/tags/nixos/</loc>
+    <lastmod>2024-01-03T17:14:03+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/posts/</loc>
-    <lastmod>2024-01-03T17:13:34+01:00</lastmod>
+    <lastmod>2024-01-03T17:14:03+01:00</lastmod>
+  </url><url>
+    <loc>https://nandicre2.github.io/2024-01-03-ditch_windows/</loc>
+    <lastmod>2024-01-03T17:14:03+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/tags/</loc>
-    <lastmod>2024-01-03T17:13:34+01:00</lastmod>
+    <lastmod>2024-01-03T17:14:03+01:00</lastmod>
+  </url><url>
+    <loc>https://nandicre2.github.io/tags/cin%C3%A9ma/</loc>
+    <lastmod>2023-12-29T17:08:34+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/2023-12-29-flop_top/</loc>
     <lastmod>2023-12-29T17:08:34+01:00</lastmod>
@@ -30,16 +39,13 @@
     <lastmod>2022-12-21T12:30:20+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/tags/drm/</loc>
-    <lastmod>2024-01-03T17:13:34+01:00</lastmod>
+    <lastmod>2022-12-21T12:30:20+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/tags/netflix/</loc>
-    <lastmod>2024-01-03T17:13:34+01:00</lastmod>
+    <lastmod>2022-12-21T12:30:20+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/2021-02-13-divagation-1/</loc>
     <lastmod>2022-12-21T12:30:20+01:00</lastmod>
-  </url><url>
-    <loc>https://nandicre2.github.io/2024-01-03-ditch_windows/</loc>
-    <lastmod>2024-01-03T17:13:34+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/2020-12-25-culturation-2/</loc>
     <lastmod>2022-12-21T12:30:20+01:00</lastmod>

@@ -7,7 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résolution 2024 : Bye Windaube !</title>
+      <link>https://nandicre2.github.io/2024-01-03-ditch_windows/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://nandicre2.github.io/2024-01-03-ditch_windows/</guid>
+      <description>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer. Et j&amp;rsquo;en ai marre. Marre de l&amp;rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.
+Envie de changer, je vais donc faire comme sur mon laptop, vive NixOS !</description>
+      <content:encoded><![CDATA[<p>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer.
+Et j&rsquo;en ai marre.
+Marre de l&rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.</p>
+<p>Envie de changer, je vais donc faire comme sur mon laptop, <a href="https://nixos.org/">vive NixOS</a> !</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Top/Flop 2023</title>
       <link>https://nandicre2.github.io/2023-12-29-flop_top/</link>
@@ -599,26 +614,6 @@ Le plus drôle dans tout ça étant que parfois la boite noire filtre sur intern
 <blockquote>
 <p>Le piratage est presque systématiquement un problème d&rsquo;accessibilité et non de prix.</p>
 </blockquote>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
-      <link>https://nandicre2.github.io/2024-01-03-ditch_windows/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2024-01-03-ditch_windows/</guid>
-      <description>title: &amp;ldquo;Résolution 2024 : Bye Windaube !&amp;rdquo; date: 2024-01-03 draft: false tags: [&amp;ldquo;Linux&amp;rdquo;, &amp;ldquo;NixOS&amp;rdquo;] Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer. Et j&amp;rsquo;en ai marre. Marre de l&amp;rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.
-Envie de changer, je vais donc faire comme sur mon laptop, vive NixOS !</description>
-      <content:encoded><![CDATA[<hr>
-<h2 id="tags-linux-nixos">title: &ldquo;Résolution 2024 : Bye Windaube !&rdquo;
-date: 2024-01-03
-draft: false
-tags: [&ldquo;Linux&rdquo;, &ldquo;NixOS&rdquo;]</h2>
-<p>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer.
-Et j&rsquo;en ai marre.
-Marre de l&rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.</p>
-<p>Envie de changer, je vais donc faire comme sur mon laptop, <a href="https://nixos.org/">vive NixOS</a> !</p>
 ]]></content:encoded>
     </item>
     
