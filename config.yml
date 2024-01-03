@@ -1,7 +1,7 @@
 baseURL: https://nandicre2.github.io/
 languageCode: fr-fr
 title: Le blog de Nandicre
-theme: "WonderMod"
+theme: "PaperMod"
 copyright: "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)"
 
 enableRobotsTXT: true
