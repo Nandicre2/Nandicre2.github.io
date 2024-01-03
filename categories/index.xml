@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Categories on Le blog de Nandicre</title>
-  <link rel="alternate" href="https://nandicre2.github.io/categories/" />
-  <link rel="self" href="https://nandicre2.github.io/categories/index.xml" />
-  <subtitle>Recent content in Categories on Le blog de Nandicre</subtitle>
-  <id>https://nandicre2.github.io/categories/</id>
-  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
-  <language>fr-fr</language>
-  <updated>0001-01-01T00:00:00Z</updated>
-  <author>
-    <name>Nandicre</name>
-    
-  </author>
-  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
-
-</feed>
-
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Le blog de Nandicre</title>
+    <link>https://nandicre2.github.io/categories/</link>
+    <description>Recent content in Categories on Le blog de Nandicre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <atom:link href="https://nandicre2.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

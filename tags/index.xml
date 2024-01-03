@@ -1,109 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Tags on Le blog de Nandicre</title>
-  <link rel="alternate" href="https://nandicre2.github.io/tags/" />
-  <link rel="self" href="https://nandicre2.github.io/tags/index.xml" />
-  <subtitle>Recent content in Tags on Le blog de Nandicre</subtitle>
-  <id>https://nandicre2.github.io/tags/</id>
-  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
-  <language>fr-fr</language>
-  <updated>2024-01-03T00:00:00Z</updated>
-  <author>
-    <name>Nandicre</name>
-    
-  </author>
-  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
-      <entry>
-        <title>Linux</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/linux/" />
-        <id>https://nandicre2.github.io/tags/linux/</id>
-        <published>2024-01-03T00:00:00Z</published>
-        <updated>2024-01-03T17:14:03+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>NixOS</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/nixos/" />
-        <id>https://nandicre2.github.io/tags/nixos/</id>
-        <published>2024-01-03T00:00:00Z</published>
-        <updated>2024-01-03T17:14:03+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>Cinéma</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/cin%C3%A9ma/" />
-        <id>https://nandicre2.github.io/tags/cin%C3%A9ma/</id>
-        <published>2023-12-29T00:00:00Z</published>
-        <updated>2023-12-29T17:08:34+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>Animation</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/animation/" />
-        <id>https://nandicre2.github.io/tags/animation/</id>
-        <published>2021-03-17T00:00:00Z</published>
-        <updated>2022-12-21T12:30:20+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>Série</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/s%C3%A9rie/" />
-        <id>https://nandicre2.github.io/tags/s%C3%A9rie/</id>
-        <published>2021-03-17T00:00:00Z</published>
-        <updated>2022-12-21T12:30:20+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>DRM</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/drm/" />
-        <id>https://nandicre2.github.io/tags/drm/</id>
-        <published>2021-02-13T00:00:00Z</published>
-        <updated>2022-12-21T12:30:20+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>Netflix</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/netflix/" />
-        <id>https://nandicre2.github.io/tags/netflix/</id>
-        <published>2021-02-13T00:00:00Z</published>
-        <updated>2022-12-21T12:30:20+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>Film</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/film/" />
-        <id>https://nandicre2.github.io/tags/film/</id>
-        <published>2020-12-25T00:00:00Z</published>
-        <updated>2022-12-21T12:30:20+01:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>BD</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/bd/" />
-        <id>https://nandicre2.github.io/tags/bd/</id>
-        <published>2020-12-10T00:00:00Z</published>
-        <updated>2023-10-20T17:16:33+02:00</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-      <entry>
-        <title>Top/Flop</title>
-        <link rel="alternate" href="https://nandicre2.github.io/tags/top/flop/" />
-        <id>https://nandicre2.github.io/tags/top/flop/</id>
-        <published>0001-01-01T00:00:00Z</published>
-        <updated>0001-01-01T00:00:00Z</updated>
-        <summary type="html"></summary>
-          <content type="html"><![CDATA[]]></content>
-      </entry>
-
-</feed>
-
-
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Le blog de Nandicre</title>
+    <link>https://nandicre2.github.io/tags/</link>
+    <description>Recent content in Tags on Le blog de Nandicre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nandicre2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://nandicre2.github.io/tags/linux/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/linux/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>NixOS</title>
+      <link>https://nandicre2.github.io/tags/nixos/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/nixos/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Cinéma</title>
+      <link>https://nandicre2.github.io/tags/cin%C3%A9ma/</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/cin%C3%A9ma/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Animation</title>
+      <link>https://nandicre2.github.io/tags/animation/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/animation/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Série</title>
+      <link>https://nandicre2.github.io/tags/s%C3%A9rie/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/s%C3%A9rie/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>DRM</title>
+      <link>https://nandicre2.github.io/tags/drm/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/drm/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Netflix</title>
+      <link>https://nandicre2.github.io/tags/netflix/</link>
+      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/netflix/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Film</title>
+      <link>https://nandicre2.github.io/tags/film/</link>
+      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/film/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>BD</title>
+      <link>https://nandicre2.github.io/tags/bd/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/bd/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    <item>
+      <title>Top/Flop</title>
+      <link>https://nandicre2.github.io/tags/top/flop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/tags/top/flop/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+  </channel>
+</rss>

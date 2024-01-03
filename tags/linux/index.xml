@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Linux on Le blog de Nandicre</title>
-  <link rel="alternate" href="https://nandicre2.github.io/tags/linux/" />
-  <link rel="self" href="https://nandicre2.github.io/tags/linux/index.xml" />
-  <subtitle>Recent content in Linux on Le blog de Nandicre</subtitle>
-  <id>https://nandicre2.github.io/tags/linux/</id>
-  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
-  <language>fr-fr</language>
-  <updated>2024-01-03T00:00:00Z</updated>
-  <author>
-    <name>Nandicre</name>
-    
-  </author>
-  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
-      <entry>
-        <title>Résolution 2024 : Bye Windaube !</title>
-        <link rel="alternate" href="https://nandicre2.github.io/2024-01-03-ditch_windows/" />
-        <id>https://nandicre2.github.io/2024-01-03-ditch_windows/</id>
-        <published>2024-01-03T00:00:00Z</published>
-        <updated>2024-01-03T17:14:03+01:00</updated>
-        <summary type="html">Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer. Et j&amp;rsquo;en ai marre. Marre de l&amp;rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.
-Envie de changer, je vais donc faire comme sur mon laptop, vive NixOS !</summary>
-          <content type="html"><![CDATA[<p>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer.
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Le blog de Nandicre</title>
+    <link>https://nandicre2.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Le blog de Nandicre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nandicre2.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résolution 2024 : Bye Windaube !</title>
+      <link>https://nandicre2.github.io/2024-01-03-ditch_windows/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/2024-01-03-ditch_windows/</guid>
+      <description>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer. Et j&amp;rsquo;en ai marre. Marre de l&amp;rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.
+Envie de changer, je vais donc faire comme sur mon laptop, vive NixOS !</description>
+      <content:encoded><![CDATA[<p>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer.
 Et j&rsquo;en ai marre.
 Marre de l&rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.</p>
 <p>Envie de changer, je vais donc faire comme sur mon laptop, <a href="https://nixos.org/">vive NixOS</a> !</p>
-]]></content>
-      </entry>
-
-</feed>
-
-
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

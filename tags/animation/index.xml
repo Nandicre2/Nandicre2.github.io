@@ -1,28 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Animation on Le blog de Nandicre</title>
-  <link rel="alternate" href="https://nandicre2.github.io/tags/animation/" />
-  <link rel="self" href="https://nandicre2.github.io/tags/animation/index.xml" />
-  <subtitle>Recent content in Animation on Le blog de Nandicre</subtitle>
-  <id>https://nandicre2.github.io/tags/animation/</id>
-  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
-  <language>fr-fr</language>
-  <updated>2021-03-17T00:00:00Z</updated>
-  <author>
-    <name>Nandicre</name>
-    
-  </author>
-  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
-      <entry>
-        <title>Culturation #3 - Ducktales (2017) : être digne d&#39;un héritage</title>
-        <link rel="alternate" href="https://nandicre2.github.io/2021-03-17-culturation-3/" />
-        <id>https://nandicre2.github.io/2021-03-17-culturation-3/</id>
-        <published>2021-03-17T00:00:00Z</published>
-        <updated>2022-12-21T12:30:20+01:00</updated>
-        <summary type="html">Avez-vous eu la chance de poser un jour vos yeux devant la série La bande à Picsou de 1987, ou encore sur La Bande à Picsou, le film : Le Trésor de la lampe perdue de 1990 ?
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on Le blog de Nandicre</title>
+    <link>https://nandicre2.github.io/tags/animation/</link>
+    <description>Recent content in Animation on Le blog de Nandicre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
+    <lastBuildDate>Wed, 17 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nandicre2.github.io/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culturation #3 - Ducktales (2017) : être digne d&#39;un héritage</title>
+      <link>https://nandicre2.github.io/2021-03-17-culturation-3/</link>
+      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://nandicre2.github.io/2021-03-17-culturation-3/</guid>
+      <description>Avez-vous eu la chance de poser un jour vos yeux devant la série La bande à Picsou de 1987, ou encore sur La Bande à Picsou, le film : Le Trésor de la lampe perdue de 1990 ?
 Si oui, vous avez déjà pu gouter aux merveilleuses aventures de la famille Duck. Eh bien réjouissez-vous, Disney XD a relancé les aventures des emplumés en 2017, et c&amp;rsquo;est excellent.
-Super Picsou Géant et Mickey Parade Bien que les aventures de Picsou et Donald soient antérieurs à la série originale (notamment grâce à l&amp;rsquo;immense travail de Carl Barks et de Don Rosa.</summary>
-          <content type="html"><![CDATA[<p>Avez-vous eu la chance de poser un jour vos yeux devant la série <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_1987)"><em>La bande à Picsou</em></a> de 1987, ou encore sur <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou,_le_film_:_Le_Tr%C3%A9sor_de_la_lampe_perdue"><em>La Bande à Picsou, le film : Le Trésor de la lampe perdue</em></a> de 1990 ?<br>
+Super Picsou Géant et Mickey Parade Bien que les aventures de Picsou et Donald soient antérieurs à la série originale (notamment grâce à l&amp;rsquo;immense travail de Carl Barks et de Don Rosa.</description>
+      <content:encoded><![CDATA[<p>Avez-vous eu la chance de poser un jour vos yeux devant la série <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_1987)"><em>La bande à Picsou</em></a> de 1987, ou encore sur <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou,_le_film_:_Le_Tr%C3%A9sor_de_la_lampe_perdue"><em>La Bande à Picsou, le film : Le Trésor de la lampe perdue</em></a> de 1990 ?<br>
 Si oui, vous avez déjà pu gouter aux merveilleuses aventures de la famille Duck. Eh bien réjouissez-vous, <a href="https://fr.wikipedia.org/wiki/Disney_XD">Disney XD</a> a relancé les aventures des emplumés en <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_2017)">2017</a>, et c&rsquo;est excellent.</p>
 <h1 id="super-picsou-géant-et-mickey-parade">Super Picsou Géant et Mickey Parade</h1>
 <p>Bien que les aventures de <a href="https://fr.wikipedia.org/wiki/Balthazar_Picsou"><strong>Picsou</strong></a> et <a href="https://fr.wikipedia.org/wiki/Donald_Duck"><strong>Donald</strong></a> soient antérieurs à la série originale (notamment grâce à l&rsquo;immense travail de <a href="https://fr.wikipedia.org/wiki/Carl_Barks"><strong>Carl Barks</strong></a> et de <a href="https://fr.wikipedia.org/wiki/Don_Rosa"><strong>Don Rosa</strong></a>. Si vous n&rsquo;avez jamais pris le temps d&rsquo;aller lire leurs oeuvres, foncez), j&rsquo;ai pour ma part découvert les aventures des palmipèdes via <a href="https://fr.wikipedia.org/wiki/Super_Picsou_g%C3%A9ant">Super Picsou Géant</a> et <a href="https://fr.wikipedia.org/wiki/Mickey_Parade">Mickey Parade</a>.</p>
@@ -34,12 +29,12 @@ Si oui, vous avez déjà pu gouter aux merveilleuses aventures de la famille Duc
 <h1 id="la-série-originale-et-le-reboot-de-2017">La série originale et le reboot de 2017</h1>
 <p>Sortie en 2017 sur Disney XD, <em>La bande à picsou</em> est donc le reboot de la série éponyme datant de 1987. Alors oui, de par la manie qu&rsquo;a Disney de détruire à coups de reboot souvent médiocre ses licences, nous étions en droit d&rsquo;avoir peur. Heureusement, la série est un pur bonheur : l&rsquo;animation est aux petits oignons; les personnages possèdent tous une profondeur, une histoire bien à eux s&rsquo;étoffant à chaque épisode; les lieux sont variés et marquants; les voix sont parfaites (je n&rsquo;ai pas vu la VF par contre); la série se permet des références à l&rsquo;ancienne série, aux comics, mais aussi à d&rsquo;autres dessins animés Disney; la série est courte (3 saisons comme l&rsquo;ancienne). Bref, foncez.</p>
 <p>La série vient de se terminer (c&rsquo;est aussi pour cela que j&rsquo;en parle), se concluant sur un épisode de plus d&rsquo;une heure qui pousse tous les potards à fond. Elle est disponible sur <a href="https://fr.wikipedia.org/wiki/Disney%2B">Disney+</a>, tout comme la série originale et le film d&rsquo;animation de 1990. Vous n&rsquo;avez plus d&rsquo;excuse pour manquer ce bijou.</p>
-<div class="youtube-embed-div">
-    <iframe src="https://www.youtube-nocookie.com/embed/DjPO3wM78pY" class="youtube-embed-frame" allowfullscreen title="YouTube Video"></iframe>
-</div>  
-]]></content>
-      </entry>
 
-</feed>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/DjPO3wM78pY" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
 
-
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
