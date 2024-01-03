@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>DRM on Le blog de Nandicre</title>
-    <link>https://nandicre2.github.io/tags/drm/</link>
-    <description>Recent content in DRM on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/tags/drm/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
-      <link>https://nandicre2.github.io/2021-02-13-divagation-1/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2021-02-13-divagation-1/</guid>
-      <description>Avant toute chose, allez voir la vidéo d&amp;rsquo;INTHEPANDA, puisque cet article est un complément de cette dernière.
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>DRM on Le blog de Nandicre</title>
+  <link rel="alternate" href="https://nandicre2.github.io/tags/drm/" />
+  <link rel="self" href="https://nandicre2.github.io/tags/drm/index.xml" />
+  <subtitle>Recent content in DRM on Le blog de Nandicre</subtitle>
+  <id>https://nandicre2.github.io/tags/drm/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>fr-fr</language>
+  <updated>2021-02-13T00:00:00Z</updated>
+  <author>
+    <name>Nandicre</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2021-02-13-divagation-1/" />
+        <id>https://nandicre2.github.io/2021-02-13-divagation-1/</id>
+        <published>2021-02-13T00:00:00Z</published>
+        <updated>2022-12-21T12:30:20+01:00</updated>
+        <summary type="html">Avant toute chose, allez voir la vidéo d&amp;rsquo;INTHEPANDA, puisque cet article est un complément de cette dernière.
 WARNING : CECI N&amp;rsquo;EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J&amp;rsquo;ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.
 La vidéo est regardée ? OK, on commence.
-Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</description>
-      <content:encoded><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
+Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</summary>
+          <content type="html"><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
 <div class="youtube-embed-div">
     <iframe src="https://www.youtube-nocookie.com/embed/WMMw8GORDX4" class="youtube-embed-frame" allowfullscreen title="YouTube Video"></iframe>
 </div>  
@@ -59,8 +64,9 @@ Le plus drôle dans tout ça étant que parfois la boite noire filtre sur intern
 <blockquote>
 <p>Le piratage est presque systématiquement un problème d&rsquo;accessibilité et non de prix.</p>
 </blockquote>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+

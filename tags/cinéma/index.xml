@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Cinéma on Le blog de Nandicre</title>
-    <link>https://nandicre2.github.io/tags/cin%C3%A9ma/</link>
-    <description>Recent content in Cinéma on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/tags/cin%C3%A9ma/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Top/Flop 2023</title>
-      <link>https://nandicre2.github.io/2023-12-29-flop_top/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2023-12-29-flop_top/</guid>
-      <description>Introduction L&amp;rsquo;exercice du TOP/FLOP n&amp;rsquo;est pas aisé. Qu&amp;rsquo;est-ce qu&amp;rsquo;un bon/mauvais film ? Quand on y regarde de plus près (et qu&amp;rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen. Je vais donc proposer ici une liste totalement subjective de mes coups de coeur et décéptions.
-FLOP 2023 Ces films ne sont pas les pires étrons produits cette année, juste une collection de décéptions personnelle.</description>
-      <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cinéma on Le blog de Nandicre</title>
+  <link rel="alternate" href="https://nandicre2.github.io/tags/cin%C3%A9ma/" />
+  <link rel="self" href="https://nandicre2.github.io/tags/cin%C3%A9ma/index.xml" />
+  <subtitle>Recent content in Cinéma on Le blog de Nandicre</subtitle>
+  <id>https://nandicre2.github.io/tags/cin%C3%A9ma/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>fr-fr</language>
+  <updated>2023-12-29T00:00:00Z</updated>
+  <author>
+    <name>Nandicre</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Top/Flop 2023</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2023-12-29-flop_top/" />
+        <id>https://nandicre2.github.io/2023-12-29-flop_top/</id>
+        <published>2023-12-29T00:00:00Z</published>
+        <updated>2023-12-29T17:08:34+01:00</updated>
+        <summary type="html">Introduction L&amp;rsquo;exercice du TOP/FLOP n&amp;rsquo;est pas aisé. Qu&amp;rsquo;est-ce qu&amp;rsquo;un bon/mauvais film ? Quand on y regarde de plus près (et qu&amp;rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen. Je vais donc proposer ici une liste totalement subjective de mes coups de coeur et décéptions.
+FLOP 2023 Ces films ne sont pas les pires étrons produits cette année, juste une collection de décéptions personnelle.</summary>
+          <content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>L&rsquo;exercice du TOP/FLOP n&rsquo;est pas aisé.
 Qu&rsquo;est-ce qu&rsquo;un bon/mauvais film ?
 Quand on y regarde de plus près (et qu&rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen.
@@ -192,18 +197,17 @@ Et pourtant c&rsquo;est le film qui m&rsquo;a le plus retourné cette année.
 Il acquiert automatiquement le statut d&rsquo;oeuvre que je ne veut plus jamais revoir; avec Close ou encore Jusqu&rsquo;ç la garde.</p>
 <p>Ce film m&rsquo;a traumatisé.
 C&rsquo;est un film immense, cruel, un témoignage d&rsquo;une époque qu&rsquo;on espérait révolu.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>ASNIFF 2023 - Le cinéma de genre à la nantaise</title>
-      <link>https://nandicre2.github.io/2023-10-20-asniff-2023/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2023-10-20-asniff-2023/</guid>
-      <description>Introduction Pour la deuxième année consécutive, j&amp;rsquo;ai pu assister à l&amp;rsquo;ASNIFF, le festival organisé par l&amp;rsquo;Absurde séance à Nantes.
-L&amp;rsquo;Absurde séance, c&amp;rsquo;est mon autre cinéma, un jeudi sur deux. C&amp;rsquo;est mon rendez-vous avec l&amp;rsquo;étrange, le gore, le flippant et le débile. C&amp;rsquo;est des avants-premières qui ne sortiront peut-être pas, des pépites restaurés jamais sortis en france, des vieux nanars montés par un aveugle, des films qui utilisent la tripaille comme moyen d&amp;rsquo;expression.</description>
-      <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
+]]></content>
+      </entry>
+      <entry>
+        <title>ASNIFF 2023 - Le cinéma de genre à la nantaise</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2023-10-20-asniff-2023/" />
+        <id>https://nandicre2.github.io/2023-10-20-asniff-2023/</id>
+        <published>2023-10-20T00:00:00Z</published>
+        <updated>2023-10-20T17:16:33+02:00</updated>
+        <summary type="html">Introduction Pour la deuxième année consécutive, j&amp;rsquo;ai pu assister à l&amp;rsquo;ASNIFF, le festival organisé par l&amp;rsquo;Absurde séance à Nantes.
+L&amp;rsquo;Absurde séance, c&amp;rsquo;est mon autre cinéma, un jeudi sur deux. C&amp;rsquo;est mon rendez-vous avec l&amp;rsquo;étrange, le gore, le flippant et le débile. C&amp;rsquo;est des avants-premières qui ne sortiront peut-être pas, des pépites restaurés jamais sortis en france, des vieux nanars montés par un aveugle, des films qui utilisent la tripaille comme moyen d&amp;rsquo;expression.</summary>
+          <content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>Pour la deuxième année consécutive, j&rsquo;ai pu assister à l&rsquo;<a href="https://absurdeseance.fr/asniff-2023/">ASNIFF</a>, le festival organisé par l&rsquo;<a href="https://absurdeseance.fr/">Absurde séance</a> à Nantes.</p>
 <p>L&rsquo;Absurde séance, c&rsquo;est mon autre cinéma, un jeudi sur deux.
 C&rsquo;est mon rendez-vous avec l&rsquo;étrange, le gore, le flippant et le débile.
@@ -518,8 +522,9 @@ Aucune idée.</p>
 Je me demande donc si le Katorza va continuer, avec peut-être une nouvelle formule.
 Ce serait bien, un cinéma différent est important à conserver.
 En tout cas, l&rsquo;ASNIFF 2024 aura lieu et, pour sûr, j&rsquo;y serai.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+

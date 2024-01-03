@@ -1,21 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Top/Flop on Le blog de Nandicre</title>
-    <link>https://nandicre2.github.io/tags/top/flop/</link>
-    <description>Recent content in Top/Flop on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright><atom:link href="https://nandicre2.github.io/tags/top/flop/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Top/Flop 2023</title>
-      <link>https://nandicre2.github.io/2023-12-29-flop_top/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2023-12-29-flop_top/</guid>
-      <description>Introduction L&amp;rsquo;exercice du TOP/FLOP n&amp;rsquo;est pas aisé. Qu&amp;rsquo;est-ce qu&amp;rsquo;un bon/mauvais film ? Quand on y regarde de plus près (et qu&amp;rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen. Je vais donc proposer ici une liste totalement subjective de mes coups de coeur et décéptions.
-FLOP 2023 Ces films ne sont pas les pires étrons produits cette année, juste une collection de décéptions personnelle.</description>
-      <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Top/Flop on Le blog de Nandicre</title>
+  <link rel="alternate" href="https://nandicre2.github.io/tags/top/flop/" />
+  <link rel="self" href="https://nandicre2.github.io/tags/top/flop/index.xml" />
+  <subtitle>Recent content in Top/Flop on Le blog de Nandicre</subtitle>
+  <id>https://nandicre2.github.io/tags/top/flop/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>fr-fr</language>
+  <updated>0001-01-01T00:00:00Z</updated>
+  <author>
+    <name>Nandicre</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Top/Flop 2023</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2023-12-29-flop_top/" />
+        <id>https://nandicre2.github.io/2023-12-29-flop_top/</id>
+        <published>2023-12-29T00:00:00Z</published>
+        <updated>2023-12-29T17:08:34+01:00</updated>
+        <summary type="html">Introduction L&amp;rsquo;exercice du TOP/FLOP n&amp;rsquo;est pas aisé. Qu&amp;rsquo;est-ce qu&amp;rsquo;un bon/mauvais film ? Quand on y regarde de plus près (et qu&amp;rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen. Je vais donc proposer ici une liste totalement subjective de mes coups de coeur et décéptions.
+FLOP 2023 Ces films ne sont pas les pires étrons produits cette année, juste une collection de décéptions personnelle.</summary>
+          <content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>L&rsquo;exercice du TOP/FLOP n&rsquo;est pas aisé.
 Qu&rsquo;est-ce qu&rsquo;un bon/mauvais film ?
 Quand on y regarde de plus près (et qu&rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen.
@@ -191,8 +197,9 @@ Et pourtant c&rsquo;est le film qui m&rsquo;a le plus retourné cette année.
 Il acquiert automatiquement le statut d&rsquo;oeuvre que je ne veut plus jamais revoir; avec Close ou encore Jusqu&rsquo;ç la garde.</p>
 <p>Ce film m&rsquo;a traumatisé.
 C&rsquo;est un film immense, cruel, un témoignage d&rsquo;une époque qu&rsquo;on espérait révolu.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+

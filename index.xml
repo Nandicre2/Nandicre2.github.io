@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Le blog de Nandicre</title>
-    <link>https://nandicre2.github.io/</link>
-    <description>Recent content on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Résolution 2024 : Bye Windaube !</title>
-      <link>https://nandicre2.github.io/2024-01-03-ditch_windows/</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2024-01-03-ditch_windows/</guid>
-      <description>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer. Et j&amp;rsquo;en ai marre. Marre de l&amp;rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.
-Envie de changer, je vais donc faire comme sur mon laptop, vive NixOS !</description>
-      <content:encoded><![CDATA[<p>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer.
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Le blog de Nandicre</title>
+  <link rel="alternate" href="https://nandicre2.github.io/" />
+  <link rel="self" href="https://nandicre2.github.io/index.xml" />
+  <subtitle>Recent content on Le blog de Nandicre</subtitle>
+  <id>https://nandicre2.github.io/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>fr-fr</language>
+  <updated>2024-01-03T00:00:00Z</updated>
+  <author>
+    <name>Nandicre</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Résolution 2024 : Bye Windaube !</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2024-01-03-ditch_windows/" />
+        <id>https://nandicre2.github.io/2024-01-03-ditch_windows/</id>
+        <published>2024-01-03T00:00:00Z</published>
+        <updated>2024-01-03T17:14:03+01:00</updated>
+        <summary type="html">Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer. Et j&amp;rsquo;en ai marre. Marre de l&amp;rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.
+Envie de changer, je vais donc faire comme sur mon laptop, vive NixOS !</summary>
+          <content type="html"><![CDATA[<p>Je ne suis pas du genre à faire des résolutions, mais ça fait un an que je traine Window$ pour jouer.
 Et j&rsquo;en ai marre.
 Marre de l&rsquo;absence de package manager digne de ce nom, marre que ça me re-balance Edge à chaque mise à jour.</p>
 <p>Envie de changer, je vais donc faire comme sur mon laptop, <a href="https://nixos.org/">vive NixOS</a> !</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Top/Flop 2023</title>
-      <link>https://nandicre2.github.io/2023-12-29-flop_top/</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2023-12-29-flop_top/</guid>
-      <description>Introduction L&amp;rsquo;exercice du TOP/FLOP n&amp;rsquo;est pas aisé. Qu&amp;rsquo;est-ce qu&amp;rsquo;un bon/mauvais film ? Quand on y regarde de plus près (et qu&amp;rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen. Je vais donc proposer ici une liste totalement subjective de mes coups de coeur et décéptions.
-FLOP 2023 Ces films ne sont pas les pires étrons produits cette année, juste une collection de décéptions personnelle.</description>
-      <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
+]]></content>
+      </entry>
+      <entry>
+        <title>Top/Flop 2023</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2023-12-29-flop_top/" />
+        <id>https://nandicre2.github.io/2023-12-29-flop_top/</id>
+        <published>2023-12-29T00:00:00Z</published>
+        <updated>2023-12-29T17:08:34+01:00</updated>
+        <summary type="html">Introduction L&amp;rsquo;exercice du TOP/FLOP n&amp;rsquo;est pas aisé. Qu&amp;rsquo;est-ce qu&amp;rsquo;un bon/mauvais film ? Quand on y regarde de plus près (et qu&amp;rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen. Je vais donc proposer ici une liste totalement subjective de mes coups de coeur et décéptions.
+FLOP 2023 Ces films ne sont pas les pires étrons produits cette année, juste une collection de décéptions personnelle.</summary>
+          <content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>L&rsquo;exercice du TOP/FLOP n&rsquo;est pas aisé.
 Qu&rsquo;est-ce qu&rsquo;un bon/mauvais film ?
 Quand on y regarde de plus près (et qu&rsquo;on regarde beaucoup de films), on se rend très vite compte que les trois quarts des films proposés chaque année sont juste moyen.
@@ -207,18 +211,17 @@ Et pourtant c&rsquo;est le film qui m&rsquo;a le plus retourné cette année.
 Il acquiert automatiquement le statut d&rsquo;oeuvre que je ne veut plus jamais revoir; avec Close ou encore Jusqu&rsquo;ç la garde.</p>
 <p>Ce film m&rsquo;a traumatisé.
 C&rsquo;est un film immense, cruel, un témoignage d&rsquo;une époque qu&rsquo;on espérait révolu.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>ASNIFF 2023 - Le cinéma de genre à la nantaise</title>
-      <link>https://nandicre2.github.io/2023-10-20-asniff-2023/</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2023-10-20-asniff-2023/</guid>
-      <description>Introduction Pour la deuxième année consécutive, j&amp;rsquo;ai pu assister à l&amp;rsquo;ASNIFF, le festival organisé par l&amp;rsquo;Absurde séance à Nantes.
-L&amp;rsquo;Absurde séance, c&amp;rsquo;est mon autre cinéma, un jeudi sur deux. C&amp;rsquo;est mon rendez-vous avec l&amp;rsquo;étrange, le gore, le flippant et le débile. C&amp;rsquo;est des avants-premières qui ne sortiront peut-être pas, des pépites restaurés jamais sortis en france, des vieux nanars montés par un aveugle, des films qui utilisent la tripaille comme moyen d&amp;rsquo;expression.</description>
-      <content:encoded><![CDATA[<h1 id="introduction">Introduction</h1>
+]]></content>
+      </entry>
+      <entry>
+        <title>ASNIFF 2023 - Le cinéma de genre à la nantaise</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2023-10-20-asniff-2023/" />
+        <id>https://nandicre2.github.io/2023-10-20-asniff-2023/</id>
+        <published>2023-10-20T00:00:00Z</published>
+        <updated>2023-10-20T17:16:33+02:00</updated>
+        <summary type="html">Introduction Pour la deuxième année consécutive, j&amp;rsquo;ai pu assister à l&amp;rsquo;ASNIFF, le festival organisé par l&amp;rsquo;Absurde séance à Nantes.
+L&amp;rsquo;Absurde séance, c&amp;rsquo;est mon autre cinéma, un jeudi sur deux. C&amp;rsquo;est mon rendez-vous avec l&amp;rsquo;étrange, le gore, le flippant et le débile. C&amp;rsquo;est des avants-premières qui ne sortiront peut-être pas, des pépites restaurés jamais sortis en france, des vieux nanars montés par un aveugle, des films qui utilisent la tripaille comme moyen d&amp;rsquo;expression.</summary>
+          <content type="html"><![CDATA[<h1 id="introduction">Introduction</h1>
 <p>Pour la deuxième année consécutive, j&rsquo;ai pu assister à l&rsquo;<a href="https://absurdeseance.fr/asniff-2023/">ASNIFF</a>, le festival organisé par l&rsquo;<a href="https://absurdeseance.fr/">Absurde séance</a> à Nantes.</p>
 <p>L&rsquo;Absurde séance, c&rsquo;est mon autre cinéma, un jeudi sur deux.
 C&rsquo;est mon rendez-vous avec l&rsquo;étrange, le gore, le flippant et le débile.
@@ -533,19 +536,18 @@ Aucune idée.</p>
 Je me demande donc si le Katorza va continuer, avec peut-être une nouvelle formule.
 Ce serait bien, un cinéma différent est important à conserver.
 En tout cas, l&rsquo;ASNIFF 2024 aura lieu et, pour sûr, j&rsquo;y serai.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Culturation #3 - Ducktales (2017) : être digne d&#39;un héritage</title>
-      <link>https://nandicre2.github.io/2021-03-17-culturation-3/</link>
-      <pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2021-03-17-culturation-3/</guid>
-      <description>Avez-vous eu la chance de poser un jour vos yeux devant la série La bande à Picsou de 1987, ou encore sur La Bande à Picsou, le film : Le Trésor de la lampe perdue de 1990 ?
+]]></content>
+      </entry>
+      <entry>
+        <title>Culturation #3 - Ducktales (2017) : être digne d&#39;un héritage</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2021-03-17-culturation-3/" />
+        <id>https://nandicre2.github.io/2021-03-17-culturation-3/</id>
+        <published>2021-03-17T00:00:00Z</published>
+        <updated>2022-12-21T12:30:20+01:00</updated>
+        <summary type="html">Avez-vous eu la chance de poser un jour vos yeux devant la série La bande à Picsou de 1987, ou encore sur La Bande à Picsou, le film : Le Trésor de la lampe perdue de 1990 ?
 Si oui, vous avez déjà pu gouter aux merveilleuses aventures de la famille Duck. Eh bien réjouissez-vous, Disney XD a relancé les aventures des emplumés en 2017, et c&amp;rsquo;est excellent.
-Super Picsou Géant et Mickey Parade Bien que les aventures de Picsou et Donald soient antérieurs à la série originale (notamment grâce à l&amp;rsquo;immense travail de Carl Barks et de Don Rosa.</description>
-      <content:encoded><![CDATA[<p>Avez-vous eu la chance de poser un jour vos yeux devant la série <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_1987)"><em>La bande à Picsou</em></a> de 1987, ou encore sur <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou,_le_film_:_Le_Tr%C3%A9sor_de_la_lampe_perdue"><em>La Bande à Picsou, le film : Le Trésor de la lampe perdue</em></a> de 1990 ?<br>
+Super Picsou Géant et Mickey Parade Bien que les aventures de Picsou et Donald soient antérieurs à la série originale (notamment grâce à l&amp;rsquo;immense travail de Carl Barks et de Don Rosa.</summary>
+          <content type="html"><![CDATA[<p>Avez-vous eu la chance de poser un jour vos yeux devant la série <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_1987)"><em>La bande à Picsou</em></a> de 1987, ou encore sur <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou,_le_film_:_Le_Tr%C3%A9sor_de_la_lampe_perdue"><em>La Bande à Picsou, le film : Le Trésor de la lampe perdue</em></a> de 1990 ?<br>
 Si oui, vous avez déjà pu gouter aux merveilleuses aventures de la famille Duck. Eh bien réjouissez-vous, <a href="https://fr.wikipedia.org/wiki/Disney_XD">Disney XD</a> a relancé les aventures des emplumés en <a href="https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_2017)">2017</a>, et c&rsquo;est excellent.</p>
 <h1 id="super-picsou-géant-et-mickey-parade">Super Picsou Géant et Mickey Parade</h1>
 <p>Bien que les aventures de <a href="https://fr.wikipedia.org/wiki/Balthazar_Picsou"><strong>Picsou</strong></a> et <a href="https://fr.wikipedia.org/wiki/Donald_Duck"><strong>Donald</strong></a> soient antérieurs à la série originale (notamment grâce à l&rsquo;immense travail de <a href="https://fr.wikipedia.org/wiki/Carl_Barks"><strong>Carl Barks</strong></a> et de <a href="https://fr.wikipedia.org/wiki/Don_Rosa"><strong>Don Rosa</strong></a>. Si vous n&rsquo;avez jamais pris le temps d&rsquo;aller lire leurs oeuvres, foncez), j&rsquo;ai pour ma part découvert les aventures des palmipèdes via <a href="https://fr.wikipedia.org/wiki/Super_Picsou_g%C3%A9ant">Super Picsou Géant</a> et <a href="https://fr.wikipedia.org/wiki/Mickey_Parade">Mickey Parade</a>.</p>
@@ -560,20 +562,19 @@ Si oui, vous avez déjà pu gouter aux merveilleuses aventures de la famille Duc
 <div class="youtube-embed-div">
     <iframe src="https://www.youtube-nocookie.com/embed/DjPO3wM78pY" class="youtube-embed-frame" allowfullscreen title="YouTube Video"></iframe>
 </div>  
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
-      <link>https://nandicre2.github.io/2021-02-13-divagation-1/</link>
-      <pubDate>Sat, 13 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2021-02-13-divagation-1/</guid>
-      <description>Avant toute chose, allez voir la vidéo d&amp;rsquo;INTHEPANDA, puisque cet article est un complément de cette dernière.
+]]></content>
+      </entry>
+      <entry>
+        <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2021-02-13-divagation-1/" />
+        <id>https://nandicre2.github.io/2021-02-13-divagation-1/</id>
+        <published>2021-02-13T00:00:00Z</published>
+        <updated>2022-12-21T12:30:20+01:00</updated>
+        <summary type="html">Avant toute chose, allez voir la vidéo d&amp;rsquo;INTHEPANDA, puisque cet article est un complément de cette dernière.
 WARNING : CECI N&amp;rsquo;EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J&amp;rsquo;ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.
 La vidéo est regardée ? OK, on commence.
-Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</description>
-      <content:encoded><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
+Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</summary>
+          <content type="html"><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
 <div class="youtube-embed-div">
     <iframe src="https://www.youtube-nocookie.com/embed/WMMw8GORDX4" class="youtube-embed-frame" allowfullscreen title="YouTube Video"></iframe>
 </div>  
@@ -614,18 +615,17 @@ Le plus drôle dans tout ça étant que parfois la boite noire filtre sur intern
 <blockquote>
 <p>Le piratage est presque systématiquement un problème d&rsquo;accessibilité et non de prix.</p>
 </blockquote>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Culturation #2 - KLAUS, de Sergio Pablos</title>
-      <link>https://nandicre2.github.io/2020-12-25-culturation-2/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2020-12-25-culturation-2/</guid>
-      <description>Je n&amp;rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme le Grinch ou Scrooge), mais laissez-moi m&amp;rsquo;expliquer.
-Je n&amp;rsquo;ai en soi rien contre cette fête: j&amp;rsquo;aime moi-même bien manger, bien boire et passer un agréable moment avec les personnes que j&amp;rsquo;apprécie (ce qui fait de moi un être humain somme toute assez normal). Je ne suis pas à empêcher les gens dans la rue d&amp;rsquo;être heureux.</description>
-      <content:encoded><![CDATA[<p>Je n&rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme <a href="https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl">le Grinch</a> ou <a href="https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl">Scrooge</a>), mais laissez-moi m&rsquo;expliquer.</p>
+]]></content>
+      </entry>
+      <entry>
+        <title>Culturation #2 - KLAUS, de Sergio Pablos</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2020-12-25-culturation-2/" />
+        <id>https://nandicre2.github.io/2020-12-25-culturation-2/</id>
+        <published>2020-12-25T00:00:00Z</published>
+        <updated>2022-12-21T12:30:20+01:00</updated>
+        <summary type="html">Je n&amp;rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme le Grinch ou Scrooge), mais laissez-moi m&amp;rsquo;expliquer.
+Je n&amp;rsquo;ai en soi rien contre cette fête: j&amp;rsquo;aime moi-même bien manger, bien boire et passer un agréable moment avec les personnes que j&amp;rsquo;apprécie (ce qui fait de moi un être humain somme toute assez normal). Je ne suis pas à empêcher les gens dans la rue d&amp;rsquo;être heureux.</summary>
+          <content type="html"><![CDATA[<p>Je n&rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme <a href="https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl">le Grinch</a> ou <a href="https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl">Scrooge</a>), mais laissez-moi m&rsquo;expliquer.</p>
 <p><img loading="lazy" src="https://www.scoutmag.ph/wp-content/uploads/2019/07/tenor-1.gif" alt="Une photo du grinch"  />
 </p>
 <p>Je n&rsquo;ai en soi rien contre cette fête: j&rsquo;aime moi-même bien manger, bien boire et passer un agréable moment avec les personnes que j&rsquo;apprécie (ce qui fait de moi un être humain somme toute assez normal). Je ne suis pas à empêcher les gens dans la rue d&rsquo;être heureux. Je n&rsquo;ai rien contre la date, je ne fais pas de pétition en ligne pour que l&rsquo;on passe du 24 au 26 directement. Rien non plus contre le caractère religieux de la chose, les religieux peuvent bien fêter ce qu&rsquo;ils souhaitent.<br>
@@ -665,19 +665,18 @@ Comique quand il le faut, sombre ou touchant aux moments opportuns, l&rsquo;hist
 <h1 id="conclusion">Conclusion</h1>
 <p>Ba et Noël dans tout cela ? Je pense que l&rsquo;on tient ici la raison pour laquelle j&rsquo;aime ce film: Noël n&rsquo;existe pas vraiment. Ou plutôt, c&rsquo;est une fête quelconque pendant une bonne partie du film.<br>
 Réinventant le mythe du barbu en rouge et blanc, ne faisant du 25 décembre qu&rsquo;une date comme une autre, se concentrant bien plus sur le pouvoir de l&rsquo;altruisme et des relations sociales que sur un sapin rempli de jouets, <em>Klaus</em> est pour moi l&rsquo;un de ces films de Noël rendant ses racines à cette fête, loin d&rsquo;une commercialisation à outrance de l&rsquo;occident.</p>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Roger et ses humains, de Cyprien Iov et Paka</title>
-      <link>https://nandicre2.github.io/2020-12-10-culturation-1/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2020-12-10-culturation-1/</guid>
-      <description>Créée par le célèbre vidéaste Cyprien Iov, connu comme Cyprien sur les internets, et l’auteur Maxime Marin, alias Paka, Roger et ses humains est une série de BD humoristiques comportant actuellement trois tomes.
+]]></content>
+      </entry>
+      <entry>
+        <title>Roger et ses humains, de Cyprien Iov et Paka</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2020-12-10-culturation-1/" />
+        <id>https://nandicre2.github.io/2020-12-10-culturation-1/</id>
+        <published>2020-12-10T00:00:00Z</published>
+        <updated>2023-10-20T17:16:33+02:00</updated>
+        <summary type="html">Créée par le célèbre vidéaste Cyprien Iov, connu comme Cyprien sur les internets, et l’auteur Maxime Marin, alias Paka, Roger et ses humains est une série de BD humoristiques comportant actuellement trois tomes.
 J’ai voulu revenir sur cette série qui est simple mais qui me fait beaucoup rigoler.
-TOME 1 Le premier tome est apparu en 2015, et il est amusant de remarquer que la même année est sorti le film Chappie abordant lui aussi la question du robot intelligent évoluant au milieu d’humains.</description>
-      <content:encoded><![CDATA[<p>Créée par le célèbre vidéaste <a href="(https://fr.wikipedia.org/wiki/Cyprien_Iov)"><strong>Cyprien Iov</strong></a>, connu comme <strong>Cyprien</strong> sur les internets, et l’auteur <strong>Maxime Marin</strong>, alias <a href="https://fr.wikipedia.org/wiki/Paka_(auteur)"><strong>Paka</strong></a>, <a href="https://fr.wikipedia.org/wiki/Roger_et_ses_humains"><em>Roger et ses humains</em></a> est une série de BD humoristiques comportant actuellement trois tomes.</p>
+TOME 1 Le premier tome est apparu en 2015, et il est amusant de remarquer que la même année est sorti le film Chappie abordant lui aussi la question du robot intelligent évoluant au milieu d’humains.</summary>
+          <content type="html"><![CDATA[<p>Créée par le célèbre vidéaste <a href="(https://fr.wikipedia.org/wiki/Cyprien_Iov)"><strong>Cyprien Iov</strong></a>, connu comme <strong>Cyprien</strong> sur les internets, et l’auteur <strong>Maxime Marin</strong>, alias <a href="https://fr.wikipedia.org/wiki/Paka_(auteur)"><strong>Paka</strong></a>, <a href="https://fr.wikipedia.org/wiki/Roger_et_ses_humains"><em>Roger et ses humains</em></a> est une série de BD humoristiques comportant actuellement trois tomes.</p>
 <p>J’ai voulu revenir sur cette série qui est simple mais qui me fait beaucoup rigoler.</p>
 <h1 id="tome-1">TOME 1</h1>
 <p><img loading="lazy" src="https://www.bedetheque.com/media/Couvertures/Couv_258379.jpg" alt="TOME 1"  />
@@ -703,8 +702,9 @@ On retrouve ici le schéma classique de la personne en dehors de la normalité c
 </p>
 <p>Vient enfin le tome 3, sorti en novembre 2020. Le style graphique n&rsquo;évolue pas, seulement une prise d&rsquo;un peu plus de libertés dans l&rsquo;agencement des cases. Les relations entre les personnages continuent d&rsquo;évoluer. Nous avons droit à un voyage au japon, ouverture sur une culture différente donc. Un passage du coté de la production de jeux vidéos, du financement participatif, de la place des femmes sur les internets. Bref, des sujets actuels qui, s&rsquo;ils sont évoqués, sont un peu survolés.</p>
 <p>En somme, ce tome reste dans la lignée du deuxième, drôle et attachant. Et je pense que c&rsquo;est ainsi que l&rsquo;on peut résumer cette série pour l&rsquo;instant. Ne révolutionnant pas le genre, ne questionnant que légérement. Amusant sans plus. Et c&rsquo;est peut être tout ce qu&rsquo;on lui demande. Amis penseurs, passez donc votre chemin. Fans des &ldquo;comic-strip&rdquo; à lire dans les toilettes, laissez vous tenter.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+

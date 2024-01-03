@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Film on Le blog de Nandicre</title>
-    <link>https://nandicre2.github.io/tags/film/</link>
-    <description>Recent content in Film on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Fri, 25 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/tags/film/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Culturation #2 - KLAUS, de Sergio Pablos</title>
-      <link>https://nandicre2.github.io/2020-12-25-culturation-2/</link>
-      <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2020-12-25-culturation-2/</guid>
-      <description>Je n&amp;rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme le Grinch ou Scrooge), mais laissez-moi m&amp;rsquo;expliquer.
-Je n&amp;rsquo;ai en soi rien contre cette fête: j&amp;rsquo;aime moi-même bien manger, bien boire et passer un agréable moment avec les personnes que j&amp;rsquo;apprécie (ce qui fait de moi un être humain somme toute assez normal). Je ne suis pas à empêcher les gens dans la rue d&amp;rsquo;être heureux.</description>
-      <content:encoded><![CDATA[<p>Je n&rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme <a href="https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl">le Grinch</a> ou <a href="https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl">Scrooge</a>), mais laissez-moi m&rsquo;expliquer.</p>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Film on Le blog de Nandicre</title>
+  <link rel="alternate" href="https://nandicre2.github.io/tags/film/" />
+  <link rel="self" href="https://nandicre2.github.io/tags/film/index.xml" />
+  <subtitle>Recent content in Film on Le blog de Nandicre</subtitle>
+  <id>https://nandicre2.github.io/tags/film/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>fr-fr</language>
+  <updated>2020-12-25T00:00:00Z</updated>
+  <author>
+    <name>Nandicre</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Culturation #2 - KLAUS, de Sergio Pablos</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2020-12-25-culturation-2/" />
+        <id>https://nandicre2.github.io/2020-12-25-culturation-2/</id>
+        <published>2020-12-25T00:00:00Z</published>
+        <updated>2022-12-21T12:30:20+01:00</updated>
+        <summary type="html">Je n&amp;rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme le Grinch ou Scrooge), mais laissez-moi m&amp;rsquo;expliquer.
+Je n&amp;rsquo;ai en soi rien contre cette fête: j&amp;rsquo;aime moi-même bien manger, bien boire et passer un agréable moment avec les personnes que j&amp;rsquo;apprécie (ce qui fait de moi un être humain somme toute assez normal). Je ne suis pas à empêcher les gens dans la rue d&amp;rsquo;être heureux.</summary>
+          <content type="html"><![CDATA[<p>Je n&rsquo;aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme <a href="https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl">le Grinch</a> ou <a href="https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl">Scrooge</a>), mais laissez-moi m&rsquo;expliquer.</p>
 <p><img loading="lazy" src="https://www.scoutmag.ph/wp-content/uploads/2019/07/tenor-1.gif" alt="Une photo du grinch"  />
 </p>
 <p>Je n&rsquo;ai en soi rien contre cette fête: j&rsquo;aime moi-même bien manger, bien boire et passer un agréable moment avec les personnes que j&rsquo;apprécie (ce qui fait de moi un être humain somme toute assez normal). Je ne suis pas à empêcher les gens dans la rue d&rsquo;être heureux. Je n&rsquo;ai rien contre la date, je ne fais pas de pétition en ligne pour que l&rsquo;on passe du 24 au 26 directement. Rien non plus contre le caractère religieux de la chose, les religieux peuvent bien fêter ce qu&rsquo;ils souhaitent.<br>
@@ -56,8 +61,9 @@ Comique quand il le faut, sombre ou touchant aux moments opportuns, l&rsquo;hist
 <h1 id="conclusion">Conclusion</h1>
 <p>Ba et Noël dans tout cela ? Je pense que l&rsquo;on tient ici la raison pour laquelle j&rsquo;aime ce film: Noël n&rsquo;existe pas vraiment. Ou plutôt, c&rsquo;est une fête quelconque pendant une bonne partie du film.<br>
 Réinventant le mythe du barbu en rouge et blanc, ne faisant du 25 décembre qu&rsquo;une date comme une autre, se concentrant bien plus sur le pouvoir de l&rsquo;altruisme et des relations sociales que sur un sapin rempli de jouets, <em>Klaus</em> est pour moi l&rsquo;un de ces films de Noël rendant ses racines à cette fête, loin d&rsquo;une commercialisation à outrance de l&rsquo;occident.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+

@@ -1,23 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>BD on Le blog de Nandicre</title>
-    <link>https://nandicre2.github.io/tags/bd/</link>
-    <description>Recent content in BD on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nandicre2.github.io/tags/bd/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Roger et ses humains, de Cyprien Iov et Paka</title>
-      <link>https://nandicre2.github.io/2020-12-10-culturation-1/</link>
-      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://nandicre2.github.io/2020-12-10-culturation-1/</guid>
-      <description>Créée par le célèbre vidéaste Cyprien Iov, connu comme Cyprien sur les internets, et l’auteur Maxime Marin, alias Paka, Roger et ses humains est une série de BD humoristiques comportant actuellement trois tomes.
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>BD on Le blog de Nandicre</title>
+  <link rel="alternate" href="https://nandicre2.github.io/tags/bd/" />
+  <link rel="self" href="https://nandicre2.github.io/tags/bd/index.xml" />
+  <subtitle>Recent content in BD on Le blog de Nandicre</subtitle>
+  <id>https://nandicre2.github.io/tags/bd/</id>
+  <generator uri="http://gohugo.io" version="0.121.1">Hugo</generator>
+  <language>fr-fr</language>
+  <updated>2020-12-10T00:00:00Z</updated>
+  <author>
+    <name>Nandicre</name>
+    
+  </author>
+  <rights>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</rights>
+      <entry>
+        <title>Roger et ses humains, de Cyprien Iov et Paka</title>
+        <link rel="alternate" href="https://nandicre2.github.io/2020-12-10-culturation-1/" />
+        <id>https://nandicre2.github.io/2020-12-10-culturation-1/</id>
+        <published>2020-12-10T00:00:00Z</published>
+        <updated>2023-10-20T17:16:33+02:00</updated>
+        <summary type="html">Créée par le célèbre vidéaste Cyprien Iov, connu comme Cyprien sur les internets, et l’auteur Maxime Marin, alias Paka, Roger et ses humains est une série de BD humoristiques comportant actuellement trois tomes.
 J’ai voulu revenir sur cette série qui est simple mais qui me fait beaucoup rigoler.
-TOME 1 Le premier tome est apparu en 2015, et il est amusant de remarquer que la même année est sorti le film Chappie abordant lui aussi la question du robot intelligent évoluant au milieu d’humains.</description>
-      <content:encoded><![CDATA[<p>Créée par le célèbre vidéaste <a href="(https://fr.wikipedia.org/wiki/Cyprien_Iov)"><strong>Cyprien Iov</strong></a>, connu comme <strong>Cyprien</strong> sur les internets, et l’auteur <strong>Maxime Marin</strong>, alias <a href="https://fr.wikipedia.org/wiki/Paka_(auteur)"><strong>Paka</strong></a>, <a href="https://fr.wikipedia.org/wiki/Roger_et_ses_humains"><em>Roger et ses humains</em></a> est une série de BD humoristiques comportant actuellement trois tomes.</p>
+TOME 1 Le premier tome est apparu en 2015, et il est amusant de remarquer que la même année est sorti le film Chappie abordant lui aussi la question du robot intelligent évoluant au milieu d’humains.</summary>
+          <content type="html"><![CDATA[<p>Créée par le célèbre vidéaste <a href="(https://fr.wikipedia.org/wiki/Cyprien_Iov)"><strong>Cyprien Iov</strong></a>, connu comme <strong>Cyprien</strong> sur les internets, et l’auteur <strong>Maxime Marin</strong>, alias <a href="https://fr.wikipedia.org/wiki/Paka_(auteur)"><strong>Paka</strong></a>, <a href="https://fr.wikipedia.org/wiki/Roger_et_ses_humains"><em>Roger et ses humains</em></a> est une série de BD humoristiques comportant actuellement trois tomes.</p>
 <p>J’ai voulu revenir sur cette série qui est simple mais qui me fait beaucoup rigoler.</p>
 <h1 id="tome-1">TOME 1</h1>
 <p><img loading="lazy" src="https://www.bedetheque.com/media/Couvertures/Couv_258379.jpg" alt="TOME 1"  />
@@ -43,8 +48,9 @@ On retrouve ici le schéma classique de la personne en dehors de la normalité c
 </p>
 <p>Vient enfin le tome 3, sorti en novembre 2020. Le style graphique n&rsquo;évolue pas, seulement une prise d&rsquo;un peu plus de libertés dans l&rsquo;agencement des cases. Les relations entre les personnages continuent d&rsquo;évoluer. Nous avons droit à un voyage au japon, ouverture sur une culture différente donc. Un passage du coté de la production de jeux vidéos, du financement participatif, de la place des femmes sur les internets. Bref, des sujets actuels qui, s&rsquo;ils sont évoqués, sont un peu survolés.</p>
 <p>En somme, ce tome reste dans la lignée du deuxième, drôle et attachant. Et je pense que c&rsquo;est ainsi que l&rsquo;on peut résumer cette série pour l&rsquo;instant. Ne révolutionnant pas le genre, ne questionnant que légérement. Amusant sans plus. Et c&rsquo;est peut être tout ce qu&rsquo;on lui demande. Amis penseurs, passez donc votre chemin. Fans des &ldquo;comic-strip&rdquo; à lire dans les toilettes, laissez vous tenter.</p>
-]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+]]></content>
+      </entry>
+
+</feed>
+
+
