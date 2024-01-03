@@ -1,10 +1,4 @@
 ---
-title: "Pourquoi NETFLIX, c'est MOCHE ? : Précisions sur la vidéo"
-date: 2021-02-13
-draft: false
-tags: [Netflix, DRM]
----
----
 title: "Résolution 2024 : Bye Windaube !"
 date: 2024-01-03
 draft: false
