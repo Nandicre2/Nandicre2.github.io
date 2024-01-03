@@ -51,7 +51,7 @@ params:
 
   socialIcons:
     - name: mastodon
-      url: "https://mamot.fr/@nandicre"
+      url: "https://piaille.fr/@nandicre"
     - name: github
       url: "https://github.com/Nandicre2"
     - name: rss
