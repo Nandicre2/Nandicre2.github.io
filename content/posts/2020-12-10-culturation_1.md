@@ -1,8 +1,8 @@
 ---
-title: "Roger et ses humains, de Cyprien Iov et Paka"
+title: "Culturation #1 : Roger et ses humains, de Cyprien Iov et Paka"
 date: 2020-12-10
 draft: false
-tags: [BD]
+tags: [Culturation, BD]
 ---
 
 Créée par le célèbre vidéaste [**Cyprien Iov**], connu comme **Cyprien** sur les internets, et l’auteur **Maxime Marin**, alias [**Paka**](https://fr.wikipedia.org/wiki/Paka_(auteur)), [*Roger et ses humains*](https://fr.wikipedia.org/wiki/Roger_et_ses_humains) est une série de BD humoristiques comportant actuellement trois tomes.

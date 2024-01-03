@@ -1,8 +1,8 @@
 ---
-title: "Culturation #2 - KLAUS, de Sergio Pablos"
+title: "Culturation #2 : KLAUS, de Sergio Pablos"
 date: 2020-12-25
 draft: false
-tags: [Film]
+tags: [Culturation, Cinéma]
 ---
 
 Je n'aime pas Noël. Alors oui, dit comme ça sans préambule, je fais vieux grognon misanthrope (un peu comme [le Grinch](https://fr.wikipedia.org/wiki/Le_Grincheux_qui_voulait_g%C3%A2cher_No%C3%ABl) ou [Scrooge](https://fr.wikipedia.org/wiki/Un_chant_de_No%C3%ABl)), mais laissez-moi m'expliquer.

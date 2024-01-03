@@ -1,8 +1,8 @@
 ---
-title: "Culturation #3 - Ducktales (2017) : être digne d'un héritage"
+title: "Culturation #3 : Ducktales (2017) : être digne d'un héritage"
 date: 2021-03-17
 draft: false
-tags: [Série, Animation]
+tags: [Culturation, Série]
 ---
  
 Avez-vous eu la chance de poser un jour vos yeux devant la série [*La bande à Picsou*](https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e_d%27animation,_1987)) de 1987, ou encore sur [*La Bande à Picsou, le film : Le Trésor de la lampe perdue*](https://fr.wikipedia.org/wiki/La_Bande_%C3%A0_Picsou,_le_film_:_Le_Tr%C3%A9sor_de_la_lampe_perdue) de 1990 ?  
