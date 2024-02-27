@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nandicre2.github.io/2024-02-27-ce_que_je_veux_faire/</loc>
+    <lastmod>2024-02-27T13:50:22+01:00</lastmod>
+  </url><url>
     <loc>https://nandicre2.github.io/</loc>
-    <lastmod>2024-01-05T17:50:11+01:00</lastmod>
+    <lastmod>2024-02-27T13:50:22+01:00</lastmod>
+  </url><url>
+    <loc>https://nandicre2.github.io/posts/</loc>
+    <lastmod>2024-02-27T13:50:22+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/tags/linux/</loc>
     <lastmod>2024-01-03T18:32:59+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/tags/nixos/</loc>
     <lastmod>2024-01-03T18:32:59+01:00</lastmod>
-  </url><url>
-    <loc>https://nandicre2.github.io/posts/</loc>
-    <lastmod>2024-01-05T17:50:11+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/2024-01-03-ditch_windows/</loc>
     <lastmod>2024-01-03T18:32:59+01:00</lastmod>
@@ -21,6 +24,9 @@
     <lastmod>2024-01-05T17:50:11+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/tags/cin%C3%A9ma/</loc>
+    <lastmod>2024-01-05T17:50:11+01:00</lastmod>
+  </url><url>
+    <loc>https://nandicre2.github.io/tags/top/flop/</loc>
     <lastmod>2024-01-05T17:50:11+01:00</lastmod>
   </url><url>
     <loc>https://nandicre2.github.io/2023-12-29-flop_top/</loc>
@@ -60,7 +66,5 @@
   </url><url>
     <loc>https://nandicre2.github.io/search/</loc>
     <lastmod>2024-01-05T18:11:29+01:00</lastmod>
-  </url><url>
-    <loc>https://nandicre2.github.io/tags/top/flop/</loc>
   </url>
 </urlset>
