@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Netflix on Le blog de Nandicre</title>
     <link>https://nandicre2.github.io/tags/netflix/</link>
     <description>Recent content in Netflix on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Sat, 13 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <copyright>CC BY-SA 4.0</copyright>
+    <lastBuildDate>Wed, 03 Jan 2024 18:32:59 +0100</lastBuildDate>
     <atom:link href="https://nandicre2.github.io/tags/netflix/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pourquoi NETFLIX, c&#39;est MOCHE ? : Précisions sur la vidéo</title>
@@ -20,9 +20,12 @@ La vidéo est regardée ? OK, on commence.
 Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</description>
       <content:encoded><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/WMMw8GORDX4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/WMMw8GORDX4?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
 
 <p><strong>WARNING : CECI N&rsquo;EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J&rsquo;ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.</strong></p>
 <p>La vidéo est regardée ? OK, on commence.</p>

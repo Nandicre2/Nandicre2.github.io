@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cinéma on Le blog de Nandicre</title>
     <link>https://nandicre2.github.io/tags/cin%C3%A9ma/</link>
     <description>Recent content in Cinéma on Le blog de Nandicre</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>fr-fr</language>
-    <copyright>[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</copyright>
-    <lastBuildDate>Fri, 29 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <copyright>CC BY-SA 4.0</copyright>
+    <lastBuildDate>Fri, 05 Jan 2024 17:50:11 +0100</lastBuildDate>
     <atom:link href="https://nandicre2.github.io/tags/cin%C3%A9ma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Top/Flop Cinéma 2023</title>
@@ -213,9 +213,12 @@ Le rendez-vous de cette année était du 10 au 15 octobre 2023.
 5 jours, 22 films, une nuit fantastique et quelques invités.
 Je vous laisse avec la bande-annonce de cette édition et on se retrouve après.</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/lXkf70Ciwcw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/lXkf70Ciwcw?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
 
 <p>Charmant, non ?</p>
 <h1 id="les-films">Les films</h1>
@@ -531,9 +534,12 @@ La vidéo est regardée ? OK, on commence.
 Netflix, DRM et les navigateurs Netflix est un service de vidéo à la demande. Comme son nom l&amp;rsquo;indique, la plateforme permet de regarder des vidéos (films, séries, etc.</description>
       <content:encoded><![CDATA[<p>Avant toute chose, allez voir la vidéo d&rsquo;<a href="https://www.youtube.com/channel/UCKpRJZK14ZH7ffHtXMwPcTg"><strong>INTHEPANDA</strong></a>, puisque cet article est un complément de cette dernière.</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/WMMw8GORDX4" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/WMMw8GORDX4?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
 
 <p><strong>WARNING : CECI N&rsquo;EST PAS UNE REMISE EN QUESTION DE LA VIDÉO !! J&rsquo;ADORE LE CONTENU DE CE VIDÉASTE, JE VOULAIS SEULEMENT APPORTER MA PART SUR QUELQUES IMPRÉCISIONS.</strong></p>
 <p>La vidéo est regardée ? OK, on commence.</p>
@@ -606,9 +612,12 @@ Chaque année, plusieurs films suivant l&rsquo;un de ces deux axes apparaissent,
 <p>Et le bagage du bonhomme se ressent instantanément: que le dessin est beau! Car oui, nous sommes sur de l&rsquo;animation <a href="https://fr.wikipedia.org/wiki/Dessin_anim%C3%A9">2D</a>, dessinée à la main. Une impression de relief, de profondeur ahurissante; des lumières et des couleurs somptueuses; des personnages aux traits ni trop parfait, ni trop brouillons. Bref, une merveille photographique. C&rsquo;est simple, ma dernière claque visuelle s&rsquo;en rapprochant était pour <a href="https://fr.wikipedia.org/wiki/Spider-Man:_New_Generation"><em>Spider-Man: New Generation</em></a>. Et bien que ce dernier a eu l&rsquo;<a href="https://fr.wikipedia.org/wiki/Oscar_du_meilleur_film_d%27animation">Oscar</a> en 2019, <em>Klaus</em> ne l&rsquo;a malheureusement pas reçu en 2020. Non pas que je n&rsquo;aime pas celui l&rsquo;ayant eu (<a href="https://fr.wikipedia.org/wiki/Toy_Story_4">Toy Story 4</a>), mais si de temps à autre l&rsquo;académie pouvait récompenser autre chose que du Disney/<a href="https://fr.wikipedia.org/wiki/Pixar_Animation_Studios">Pixar</a>, le monde serait plus beau.<br>
 Bien qu&rsquo;il soit sur Netflix et que la tentation puisse être forte, ne regardez pas ce film sur votre téléphone, je vous en supplie. D&rsquo;ailleurs, <a href="https://www.youtube.com/watch?v=mWnFWFSmkDo">ne regardez plus de film sur votre téléphone</a>! Et pour ceux qui sont persuadés que je mens et que <em>Klaus</em> est en 3D, en voici la preuve (en anglais) :</p>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/BlU49dJhfcw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
-</div>
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BlU49dJhfcw?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
 
 <h2 id="lhistoire">L&rsquo;histoire</h2>
 <p>Loin d&rsquo;être seulement un bijou visuel, <em>Klaus</em> sait aussi être tout à fait prenant.<br>
