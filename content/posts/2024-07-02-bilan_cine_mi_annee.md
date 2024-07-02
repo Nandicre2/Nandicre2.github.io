@@ -1,7 +1,7 @@
 ---
 title: "Bilan cinéma mi-2024"
 date: 2024-07-02
-draft: true
+draft: false
 tags: ["Cinéma"]
 ---
 
