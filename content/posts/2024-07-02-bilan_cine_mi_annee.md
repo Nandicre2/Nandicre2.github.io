@@ -27,8 +27,8 @@ Avec beaucoup de ["September"](https://fr.wikipedia.org/wiki/September_(chanson)
 Vint ensuite le très bizarre ["Dream scenario"](https://fr.wikipedia.org/wiki/Dream_Scenario) de [Kristoffer Borgli](https://fr.wikipedia.org/wiki/Kristoffer_Borgli).
 Avec un [Nicolas Cage](https://fr.wikipedia.org/wiki/Nicolas_Cage) que tout le monde voit dans ses rêves, le film regorge de scènes plutôt décalées et franchement pas pour tout le monde.
 
-["Vermines"](https://fr.wikipedia.org/wiki/Vermines) de Sébastien Vaniček, avec [Florent Bernard](https://fr.wikipedia.org/wiki/Florent_Bernard) à l'écriture, est un vrai chef d'oeuvre, pur vent de fraicheur dans l'horreur française.
-Les deux comparses travaillent actuellement sur un film de la saga ["Evil Dead"](https://fr.wikipedia.org/wiki/Evil_Dead_(franchise)), j'ai très hate.
+["Vermines"](https://fr.wikipedia.org/wiki/Vermines) de Sébastien Vaniček, avec [Florent Bernard](https://fr.wikipedia.org/wiki/Florent_Bernard) à l'écriture, est un vrai chef d'oeuvre, pur vent de fraîcheur dans l'horreur française.
+Les deux comparses travaillent actuellement sur un film de la saga ["Evil Dead"](https://fr.wikipedia.org/wiki/Evil_Dead_(franchise)), j'ai très hâte.
 
 [Yorgos Lanthimos](https://fr.wikipedia.org/wiki/Y%C3%B3rgos_L%C3%A1nthimos) est revenu avec sa nouvelle proposition, ["Pauvres créatures"](https://fr.wikipedia.org/wiki/Pauvres_Cr%C3%A9atures).
 Beaucoup moins cryptique que son cinéma habituel, l'esthétique du film est folle.
@@ -53,7 +53,7 @@ Deux films vides, affligeants de nullité, prouvant que les français aussi peuv
 
 ## Les rattrapages
 J'ai enfin vu un bout de la saga ["Rocky"](https://fr.wikipedia.org/wiki/Rocky_(s%C3%A9rie_de_films)) !
-Plus précisement les quatres premiers films.
+Plus précisément les quatres premiers films.
 Si les deux premiers sont géniaux, le troisième est assez moyen et le quatrième vraiment mauvais.
 Au point que je n'ai toujours pas vu les deux derniers.
 Il faut que je m'y mette.
@@ -66,7 +66,7 @@ Un peu moins pourquoi c'est un film de noël qu'on montre aux enfants.
 ## Le bon
 [Quentin Dupieux](https://fr.wikipedia.org/wiki/Quentin_Dupieux) est revenu avec un nouvel ovni, du nom de ["Daaaaaalí !"](https://fr.wikipedia.org/wiki/Daaaaaal%C3%AD_!).
 Que dire de plus que c'est du Dupieux ?
-Ceux qui aiment son coté absurde seront content et les autres non.
+Ceux qui aiment son côté absurde seront contents et les autres non.
 
 ["Sans jamais nous connaître"](https://fr.wikipedia.org/wiki/Sans_jamais_nous_conna%C3%AEtre) de [Andrew Haigh](https://fr.wikipedia.org/wiki/Andrew_Haigh) vaut aussi le détour.
 Un film émouvant qui fera chialer une partie d'entre nous.
@@ -76,7 +76,7 @@ Il remet le couvert avec ["Le successeur"](https://fr.wikipedia.org/wiki/Le_Succ
 Un film dur, qu'on a pas envie de revoir tout de suite.
 
 ["Le royaume des abysses"](https://fr.wikipedia.org/wiki/Le_Royaume_des_abysses), de Tian Xiaopeng, est venu mettre un bon coup de pied dans le milieu trop sage de l'animation.
-Vrai folie visuelle, le film arrive à être émouvant et possède une gallerie de personnages que ne renierai pas le [studio Ghibli](https://fr.wikipedia.org/wiki/Studio_Ghibli).
+Vrai folie visuelle, le film arrive à être émouvant et possède une galerie de personnages que ne renierait pas le [studio Ghibli](https://fr.wikipedia.org/wiki/Studio_Ghibli).
 
 Me faire apprécier [Timothée Chalamet](https://fr.wikipedia.org/wiki/Timoth%C3%A9e_Chalamet) n'est pas facile, tant je trouve son jeu d'habitude médiocre.
 ["Dune, deuxième partie"](https://fr.wikipedia.org/wiki/Dune,_deuxi%C3%A8me_partie) de [Denis Villeneuve](https://fr.wikipedia.org/wiki/Denis_Villeneuve) l'a pourtant fait.
@@ -106,11 +106,11 @@ Très rapidement :
 - ["Godzilla 2"](https://fr.wikipedia.org/wiki/Godzilla_2_:_Roi_des_monstres), de [Michael Dougherty](https://fr.wikipedia.org/wiki/Michael_Dougherty), est une perte de temps.
 - ["Godzilla vs Kong"](https://fr.wikipedia.org/wiki/Godzilla_vs_Kong), de [Adam Wingard](https://fr.wikipedia.org/wiki/Adam_Wingard), est plutôt naze, mais le résultat débilo-néon m'a fait rigoler.
 
-Coté horreur, j'ai vu ["The sadness"](https://fr.wikipedia.org/wiki/The_Sadness) de Rob Jabbaz.
-Un film d'inféctés ultra violent venant de Taïwan, âme sensible s'abstenir.
+Côté horreur, j'ai vu ["The sadness"](https://fr.wikipedia.org/wiki/The_Sadness) de Rob Jabbaz.
+Un film d'infectés ultra violent venant de Taïwan, âme sensible s'abstenir.
 Mais surtout, j'ai enfin vu les deux films ["Terrifier"](https://fr.wikipedia.org/wiki/Terrifier_(film)) de Damien Leone.
 Et qu'est-ce que c'est bien.
-Pareil, il faut avoir le coeur bien accroché, mais le coté bis du clown tueur est un pur plaisir.
+Pareil, il faut avoir le cœur bien accroché, mais le côté bis du clown tueur est un pur plaisir.
 
 Pour finir sur un grand classique, j'ai enfin savouré ["Les tontons flingueurs"](https://fr.wikipedia.org/wiki/Les_Tontons_flingueurs) de [Georges Lautner](https://fr.wikipedia.org/wiki/Georges_Lautner).
 Les dialogues, signés [Michel Audiard](https://fr.wikipedia.org/wiki/Michel_Audiard), sont vraiment cultissimes.
@@ -162,13 +162,13 @@ Que ça fait du bien de voir du cinéma LGBT qui n'est pas pathos, très frontal
 Après nous avoir régalé avec de grosses araignées en début d'année, [Florent Bernard](https://fr.wikipedia.org/wiki/Florent_Bernard) revient avec une comédie sur la famille, ["Nous, les Leroy"](https://fr.wikipedia.org/wiki/Nous,_les_Leroy), et c'est pour moi un classique instantané.
 
 Le 14 avril c'était [La nuit fantastique de l'Absurde Séance](https://absurdeseance.fr/).
-Le moment de se mater des films de genres plutôt discret, qui ne sortiront sûrement jamais en salle.
+Le moment de se mater des films de genres plutôt discrets, qui ne sortiront sûrement jamais en salle.
 Rapidement :
 - ["The seeding"](https://absurdeseance.fr/movies/the-seeding-20240413.html) de Barnaby Clay.
 Un film concept, pas mal mais un peu lent.
 - ["Late night with the devil"](https://absurdeseance.fr/movies/late-night-with-the-devil-20240414.html) de Cameron Cairnes et Colin Cairnes.
 La grosse surprise de la nuit.
-Un film ultra prennant, beau et innovant.
+Un film ultra prenant, beau et innovant.
 - ["The well"](https://absurdeseance.fr/movies/the-well-20240414.html) de Federico Zampaglione.
 Un bis qui se prend un peu trop au sérieux, mais avec la final-girl de la série Terrifier.
 - ["Destroy all neighbors"](https://absurdeseance.fr/movies/destroy-all-neighbors-20240414.html) de Josh Forbes.
@@ -183,7 +183,7 @@ Elle crêve l'écran ici dans ["Civil war"](https://fr.wikipedia.org/wiki/Civil_
 Tellement de pognons pour une bouillie visuelle inutile.
 
 [Zack Snyder](https://fr.wikipedia.org/wiki/Zack_Snyder) prouve, avec ["Rebel moon - Partie 2"](https://fr.wikipedia.org/wiki/Rebel_Moon_-_Partie_2_:_L%27Entailleuse), que parfois il faut dire stop.
-Encore deux heure de néant.
+Encore deux heures de néant.
 Apparemment il y aura des suites et des versions director's cut.
 Au secours.
 
@@ -231,14 +231,14 @@ Le dernier [Cronenberg](https://fr.wikipedia.org/wiki/David_Cronenberg), ["Les l
 ["Les crimes du futur"](https://fr.wikipedia.org/wiki/Les_Crimes_du_futur) était déjà franchement mauvais, peut-être la retraite pour papi ?
 
 [Paolo Sorrentino](https://fr.wikipedia.org/wiki/Paolo_Sorrentino) nous offre l'occasion de nous rincer l'oeil avec ["Parthenope"](https://fr.wikipedia.org/wiki/Parthenope_(film)).
-Un film totalment futile, servant juste à filmer son actrice principale à moitié nue durant une bonne partie du métrage.
+Un film totalement futile, servant juste à filmer son actrice principale à moitié nue durant une bonne partie du métrage.
 
 ## Les rattrapages
 J'ai rattrapé ["Perfect blue"](https://fr.wikipedia.org/wiki/Perfect_Blue), de [Satoshi Kon](https://fr.wikipedia.org/wiki/Satoshi_Kon), et quel film glacant.
 Dommage que l'auteur soit mort si tôt, il aurait sûrement sorti un bon paquet de films mémorables.
 
 Petit tour dans le passé avec ["Barbarella"](https://fr.wikipedia.org/wiki/Barbarella_(film)) de [Roger Vadim](https://fr.wikipedia.org/wiki/Roger_Vadim) et ["La planète sauvage"](https://fr.wikipedia.org/wiki/La_Plan%C3%A8te_sauvage) de [René Laloux](https://fr.wikipedia.org/wiki/Ren%C3%A9_Laloux).
-Deux films intéressant pour leur esthétique, mais qui n'ont pas forcèment bien vieilli.
+Deux films intéressants pour leur esthétique, mais qui n'ont pas forcément bien vieilli.
 Pour la culture.
 
 Suite au dernier Dupieux, j'ai voulu récupérer un peu de ceux qu'il me manquait.
@@ -257,7 +257,7 @@ J'aime bien les films sud-coréens car le folklore est souvent superbe.
 ["Exhuma"](https://fr.wikipedia.org/wiki/Exhuma) de [Jang Jae-hyeon](https://fr.wikipedia.org/wiki/Jang_Jae-hyeon) pousse à fond cette carte, avec des esprits et des exorcistes.
 
 Des muscles, du sang et [Kristen Stewart](Kristen_Stewart), voici la promesse de ["Love Lies Bleeding"](https://fr.wikipedia.org/wiki/Love_Lies_Bleeding) de [Rose Glass](https://fr.wikipedia.org/wiki/Rose_Glass).
-Promesse tenue, avec la surpprenante [Katy O'Brian](https://fr.wikipedia.org/wiki/Katy_O%27Brian), bodybuildeuse au charme fou.
+Promesse tenue, avec la surprenante [Katy O'Brian](https://fr.wikipedia.org/wiki/Katy_O%27Brian), bodybuildeuse au charme fou.
 
 La surprise de fin de mois, c'est ["Le comte de Monte-Cristo"](https://fr.wikipedia.org/wiki/Le_Comte_de_Monte-Cristo_(film,_2024)), de [Alexandre de La Patellière](https://fr.wikipedia.org/wiki/Alexandre_de_La_Patelli%C3%A8re) et [Matthieu Delaporte](https://fr.wikipedia.org/wiki/Matthieu_Delaporte).
 Les deux scénaristes du dyptique ["Les trois mousquetaires"](https://fr.wikipedia.org/wiki/Les_Trois_Mousquetaires_:_D%27Artagnan) ont viré [Bourboulon](https://fr.wikipedia.org/wiki/Martin_Bourboulon) et d'un coup, ça devient regardable.
@@ -281,10 +281,10 @@ Une petite pépite touchante, qui a peut-être un peu vieilli sur sa représenta
 Au final, tout de même pas mal de films à retenir pour ce premier semestre.
 Le deuxième sera-t-il aussi bien ?
 J'attends :
-- Deadpol & Wolverine (24 juillet)
+- Deadpool et Wolverine (24 juillet)
 - MaXXXine (31 juillet)
-- Borderlands (7 aout)
-- Alien Romulus (14 aout) (mais il faut que je recupere Covenant)
+- Borderlands (7 août)
+- Alien Romulus (14 août) (mais il faut que je récupère Covenant)
 - Beetlejuice Beetlejuice (11 septembre)
 - Megalopolis (25 septembre)
 - Emmanuelle (25 septembre)
